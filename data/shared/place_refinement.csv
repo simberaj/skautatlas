@@ -1,0 +1,885 @@
+place_freeform;place_refined
+Praha 2;Praha-střed
+Praha 5 - Zbraslav;Zbraslav
+Praha 3;Praha-Žižkov
+Praha 9;Praha-Vysočany
+Praha 3 - Žižkov;Praha-Žižkov
+Praha 1;Praha-střed
+Praha 12;Praha-Modřany
+Praha 4;Praha-Pankrác
+Praha 4 - Kunratice;Praha-Kunratice
+Praha 5;Praha-Smíchov
+Praha 5 - Smíchov;Praha-Smíchov
+Praha 5 Radotín;Praha-Radotín
+Praha 7;Praha-Holešovice
+Praha 6;Praha-Šárka
+Libčice n.Vlt.;Libčice nad Vltavou
+Kralupy nad Vltavou;Kralupy nad Vltavou
+Roztoky;Roztoky
+Praha 8;Praha-Kobylisy
+Odolena Voda;Odolena Voda
+Praha 21 - Újezd nad Lesy;Praha-Běchovice
+Praha 9 - Horní Počernice;Praha-Horní Počernice
+Praha 9 - Prosek;Praha-Prosek
+Praha 10;Praha-Vršovice
+Praha 4 - Chodov;Praha-Jižní Město
+Praha 9 Horní Pocernice;Praha-Horní Počernice
+Praha 9 - Hrdlořezy;Praha-Běchovice
+Praha 10 - Michle;Praha-Pankrác
+Divišov;Benešov
+Vlašim;Vlašim
+Kamenice;Kamenice
+Votice;Votice
+Beroun;Beroun
+Hořovice;Hořovice
+Králův Dvůr;Králův Dvůr
+Rudná;Rudná
+Mořina;Mořina
+Nové Strašecí;Nové Strašecí
+Kladno;Kladno
+Kladno 1;Kladno
+Buštěhrad;Buštěhrad
+Libušín;Libušín
+Slaný;Slaný
+Kolín;Kolín
+Kolín 5;Kolín
+Starý Kolín;Starý Kolín
+Červené Pečky;Červené Pečky
+Český Brod;Český Brod
+Kolín V;Kolín
+Kouřim;Kouřim
+Ratboř;Ratboř
+Kostelec nad Černými lesy;Kostelec nad Černými lesy
+Plaňany;Plaňany
+Kutná Hora 1;Kutná Hora
+Čáslav;Čáslav
+Kutná Hora;Kutná Hora
+Dolní Bučice;Dolní Bučice
+Uhlířské Janovice;Uhlířské Janovice
+Ronov nad Doubravou;Ronov nad Doubravou
+Mělník 1;Mělník
+Kostelec nad Labem;Kostelec nad Labem
+Neratovice;Neratovice
+Liběchov;Liběchov
+Mladá Boleslav;Mladá Boleslav
+Benátky nad Jizerou;Benátky nad Jizerou
+Mnichovo Hradiště;Mnichovo Hradiště
+Bělá pod Bezdězem;Bělá pod Bezdězem
+Nymburk;Nymburk
+Lysá nad Labem;Lysá nad Labem
+Městec Králové;Městec Králové
+Poděbrady;Poděbrady
+Sadská;Sadská
+Brandýs nad Labem;Brandýs nad Labem
+Jirny;Jirny
+Klecany;Klecany
+Líbeznice;Líbeznice
+Čelákovice;Čelákovice
+Říčany;Říčany
+Úvaly;Úvaly
+Stará Boleslav;Stará Boleslav
+Předměřice nad Jizerou;Brandýs nad Labem
+Zápy, pošta Brandýs nad Labem;Zápy
+Mníšek pod Brdy;Mníšek pod Brdy
+Dobřichovice;Dobřichovice
+Vrané nad Vltavou;Vrané nad Vltavou
+Všenory;Všenory
+Praha Zbraslav;Zbraslav
+Hostivice;Hostivice
+252 28 Černošice;Černošice
+Příbram VII;Příbram
+Příbram;Příbram
+Rožmitál p. Tř.;Rožmitál pod Třemšínem
+Sedlčany;Sedlčany
+Dobříš;Dobříš
+Jindřichův Hradec;Jindřichův Hradec
+Třeboň;Třeboň
+Písek;Písek
+Prachatice;Prachatice
+Horní Vltavice;Vimperk
+České Budejovice;České Budějovice
+České Budějovice;České Budějovice
+Týn nad Vltavou;Týn nad Vltavou
+Kaplice;Kaplice
+Velešín;Velešín
+Horní Stropnice;Horní Stropnice
+Holubov;Holubov
+Dačice;Dačice
+Slavonice;Slavonice
+Lomnice nad Lužnicí;Lomnice nad Lužnicí
+Kamenice nad Lipou;Kamenice nad Lipou
+Milevsko;Milevsko
+Protivín;Protivín
+Strakonice;Strakonice
+Volyně;Volyně
+Vodňany;Vodňany
+Tábor;Tábor
+Sezimovo Ústí;Sezimovo Ústí
+Bechyně;Bechyně
+Veselí nad Lužnicí 1;Veselí nad Lužnicí
+Borotín;Borotín
+Planá nad Lužnicí;Planá nad Lužnicí
+Opařany;Opařany
+Veselí nad Lužnicí;Veselí nad Lužnicí
+Domažlice;Domažlice
+Holýšov;Holýšov
+Kdyně;Prapořiště
+Tachov 1;Tachov
+Klatovy;Klatovy
+Horažďovice;Horažďovice
+Sušice;Sušice
+Pačejov;Pačejov
+Plzeň;Plzeň
+Plzeň 12;Plzeň
+Plzeň 1;Plzeň
+Tlučná;Tlučná
+Kralovice;Kralovice
+Přeštice;Přeštice
+Dnešice;Dnešice
+Dobřany;Dobřany
+Spálené Poříčí;Spálené Poříčí
+Rokycany;Rokycany
+Radnice;Radnice
+Strašice;Strašice
+Zbiroh;Zbiroh
+Cheb;Cheb
+Cheb 2;Cheb
+Aš 1;Aš
+Františkovy Lázně;Františkovy Lázně
+Mariánské Lázně;Mariánské Lázně
+Luby;Luby
+Jáchymov;Jáchymov
+Nejdek;Nejdek
+Karlovy Vary;Karlovy Vary
+Chodov;Chodov
+Kynšperk nad Ohří;Kynšperk nad Ohří
+Habartov;Habartov
+Horní Slavkov;Horní Slavkov
+Loket;Loket
+Děčín 2;Děčín
+Varnsdorf;Varnsdorf
+Rumburk;Rumburk
+Děčín 9;Děčín
+Šluknov;Šluknov
+Chomutov;Chomutov
+Klášterec nad Ohří;Klášterec nad Ohří
+Jirkov;Jirkov
+Kadaň;Kadaň
+Žatec;Žatec
+Terezín;Terezín
+Roudnice nad Labem;Roudnice nad Labem
+Lovosice;Lovosice
+Libochovice;Libochovice
+Štětí;Štětí
+Litoměřice;Litoměřice
+Most;Most
+Litvínov 8;Litvínov
+Louny;Louny
+Teplice 1;Teplice
+Teplice;Teplice
+Ústí nad Labem;Ústí nad Labem
+Česká Lípa;Česká Lípa
+Nový Bor;Nový Bor
+Doksy;Doksy
+Mimoň;Mimoň
+Jablonec nad Nisou 5;Jablonec nad Nisou
+Liberec 8;Liberec
+Liberec 14;Liberec
+Liberec 25;Liberec
+Liberec 30;Liberec
+Liberec;Liberec
+Hrádek nad Nisou;Hrádek nad Nisou
+Český Dub;Český Dub
+Semily;Semily
+Turnov;Turnov
+Jilemnice;Jilemnice
+Železný Brod;Železný Brod
+Tatobity;Tatobity
+Třebechovice pod Orebem;Třebechovice pod Orebem
+Stěžery;Stěžery
+Chlumec nad Cidlinou;Chlumec nad Cidlinou
+Jičín;Jičín
+Hořice;Hořice v Podkrkonoší
+Nová Paka;Nová Paka
+Miletín;Miletín
+Lázně Bělohrad;Lázně Bělohrad
+Náchod;Náchod
+Police nad Metují;Police nad Metují
+Broumov;Broumov
+Červený Kostelec;Červený Kostelec
+Česká Skalice;Česká Skalice
+Nové Město nad Metují;Nové Město nad Metují
+Jaroměř;Jaroměř
+Rychnov nad Kněžnou;Rychnov nad Kněžnou
+Kostelec nad Orlicí;Kostelec nad Orlicí
+Opočno;Opočno
+Dobruška;Dobruška
+Vamberk;Vamberk
+Trutnov;Trutnov
+Dvůr Králové nad Labem;Dvůr Králové nad Labem
+Rtyně v Podkrkonoší;Rtyně v Podkrkonoší
+Hostinné;Hostinné
+Vrchlabí;Vrchlabí
+Malé Svatoňovice;Malé Svatoňovice
+Svoboda nad Úpou;Svoboda nad Úpou
+Hradec Králové;Hradec Králové
+Hradec Králové 3;Hradec Králové
+Hradec Králové 9;Hradec Králové
+Chrudim;Chrudim
+Slatiňany;Slatiňany
+Hlinsko v Čechách;Hlinsko
+Skuteč;Skuteč
+Chrast u Chrudimě;Chrast u Chrudimi
+Nasavrky;Nasavrky
+Heřmanův Městec;Heřmanův Městec
+Proseč 188;Proseč
+Luže;Luže
+Kameničky;Kameničky
+Pardubice 3;Pardubice
+Chvaletice;Chvaletice
+Holice;Holice
+Pardubice;Pardubice
+Přelouč;Přelouč
+Sezemice;Sezemice
+Svitavy;Svitavy
+Litomyšl;Litomyšl
+Polička;Polička
+Moravská Třebová;Moravská Třebová
+Dolní Újezd;Dolní Újezd
+Ústí nad Orlicí;Ústí nad Orlicí
+Česká Třebová;Česká Třebová
+Choceň;Choceň
+Vysoké Mýto;Vysoké Mýto
+Lanškroun;Lanškroun
+Žamberk;Žamberk
+Letohrad;Letohrad
+Jablonné nad Orlicí;Jablonné nad Orlicí
+Brandýs nad Orlicí;Brandýs nad Orlicí
+Dolní Dobrouč;Dolní Dobrouč
+Červená Voda;Červená Voda
+Chotěboř;Chotěboř
+Havlíčkův Brod;Havlíčkův Brod
+Ledeč nad Sázavou;Ledeč nad Sázavou
+Přibyslav;Přibyslav
+Jihlava;Jihlava
+Batelov 327;Batelov
+Humpolec;Humpolec
+Počátky;Počátky
+Pelhřimov;Pelhřimov
+Třebíč;Třebíč
+Luka nad Jihlavou;Luka nad Jihlavou
+Moravské Budějovice;Moravské Budějovice
+Jemnice;Jemnice
+Budišov;Budišov
+ Uhřínov;Velké Meziříčí
+Nové Město na Moravě;Nové Město na Moravě
+Bystřice nad Pernštejnem;Bystřice nad Pernštejnem
+Žďár nad Sázavou;Žďár nad Sázavou
+Svratka;Svratka
+Polná;Polná
+Blansko;Blansko
+Rájec-Jestřebí;Rájec-Jestřebí
+Boskovice;Boskovice
+Letovice;Letovice
+Jedovnice;Jedovnice
+Brno;Brno
+Brno 23;Brno-západ
+Brno 15;Brno-východ
+Brno 13;Brno-střed
+Brno-Řečkovice;Brno-sever
+Brno 2;Brno-střed
+Brno - Bosonohy;Brno-jih
+Oslavany;Oslavany
+Ivančice;Ivančice
+Střelice;Střelice
+Újezd u Brna;Újezd u Brna
+Tišnov;Tišnov
+Kuřim;Kuřim
+Veverská Bítýška;Veverská Bítýška
+Křtiny;Křtiny
+Pozořice;Pozořice
+Židlochovice;Židlochovice
+Domašov;Domašov
+Šlapanice u Brna;Šlapanice
+Vranovice;Vranovice
+Břeclav;Břeclav
+Mikulov;Mikulov
+Kyjov;Kyjov
+Veselí nad Moravou;Veselí nad Moravou
+Ratíškovice;Ratíškovice
+Mikulčice;Mikulčice
+Hodonín 1;Hodonín
+Klobouky u Brna;Klobouky u Brna
+Vyškov;Vyškov
+Slavkov u Brna;Slavkov u Brna
+Jevišovice;Jevišovice
+Znojmo;Znojmo
+Olomouc 9;Olomouc
+Olomouc;Olomouc
+Šternberk;Šternberk
+Dub nad Moravou;Dub nad Moravou
+Čechovice, Velký Týnec;Velký Týnec
+Bělkovice-Lašťany;Bělkovice-Lašťany
+Prostějov;Prostějov
+Kostelec na Hané;Kostelec na Hané
+Konice;Konice
+Vrbátky;Vrbátky
+Přerov;Přerov
+Brodek u Přerova;Brodek u Přerova
+Kojetín;Kojetín
+Lipník n.B.;Lipník nad Bečvou
+Hranice;Hranice
+Šumperk;Šumperk
+Bludov;Bludov
+Postřelmov;Postřelmov
+Zábřeh;Zábřeh
+Hoštejn;Hoštejn
+Loštice;Loštice
+Lesnice;Lesnice
+Ruda nad Moravou;Ruda nad Moravou
+Česká Ves;Jeseník
+Staré Město;Staré Město
+Kroměříž;Kroměříž
+Týn nad Bečvou;Lipník nad Bečvou
+Holešov;Holešov
+Chropyně;Chropyně
+Uherské Hradiště;Uherské Hradiště
+Staré Město u Uherského Hradiště;Staré Město
+Polešovice;Polešovice
+Uherský Brod;Uherský Brod
+Bojkovice;Bojkovice
+Suchá Loz;Suchá Loz
+Modrá;Modrá
+Vsetín;Vsetín
+Valašské Meziříčí;Valašské Meziříčí
+Lidečko;Lidečko
+Rožnov pod Radhoštěm;Rožnov pod Radhoštěm
+Kelč;Kelč
+Zlín;Zlín
+Zlín 4;Zlín-Malenovice
+Otrokovice;Otrokovice
+Napajedla;Napajedla
+Luhačovice;Luhačovice
+Slavičín;Slavičín
+Vizovice;Vizovice
+Pozlovice;Pozlovice
+Štítná nad Vláří;Štítná nad Vláří
+Brumov-Bylnice;Brumov-Bylnice
+Slušovice;Slušovice
+Bruntál 1;Bruntál
+Krnov;Krnov
+Rýmařov;Rýmařov
+Zlaté Hory;Zlaté Hory
+Frýdek - Místek;Frýdek-Místek
+Frýdlant nad Ostravicí;Frýdlant nad Ostravicí
+Šenov;Šenov
+Frýdek-Místek 1;Frýdek-Místek
+Staříč;Staříč
+Pražmo;Pražmo
+Dobrá;Dobrá u Frýdku-Místku
+Rychvald;Rychvald
+Havířov - Šumbark;Havířov
+Nýdek;Třinec
+Český Těšín 6;Český Těšín
+Nový Jičín;Nový Jičín
+Příbor;Příbor
+Kopřivnice;Kopřivnice
+Štramberk;Štramberk
+Odry;Odry
+Albrechtičky;Albrechtičky
+Opava 1;Opava
+Opava;Opava
+Štítina;Háj ve Slezsku
+Dolní Životice;Dolní Životice
+Ostrava - Mariánské Hory;Ostrava-střed
+Ostrava - Moravská Ostrava a Přívoz;Ostrava-střed
+Ostrava - Svinov;Ostrava-západ
+Klimkovice;Klimkovice
+Ostrava - Poruba;Ostrava-západ
+Ostrava - Zábřeh;Ostrava-jih
+Ostrava - Jih;Ostrava-jih
+Ostrava - Stará Bělá;Ostrava-jih
+Ostrava - Polanka nad Odrou;Ostrava-západ
+Praha;Praha
+Hloubětín;Praha-Černý Most
+Praha ;Praha
+Nerudova 33, 118 00 Praha 1;Praha-střed
+Žižkov;Praha-Žižkov
+Korunní 60, 120 00 Praha 2, Vinohrady;Praha-střed
+Praha 4 Modřany;Praha-Modřany
+Praha 4 - Modřany;Praha-Modřany
+Praha Vinohrady;Praha-střed
+Praha-Kunratice;Praha-Kunratice
+Praha - Kunratice;Praha-Kunratice
+Praha 13;Praha-Smíchov
+Sobětická 1627/9, Praha Radotín;Praha-Radotín
+Praha 5 - Radotín;Praha-Radotín
+Praha 5 – Radotín;Praha-Radotín
+Barrandov;Praha-Smíchov
+Praha-Suchdol;Praha-Suchdol
+Libčice n.vlt;Libčice nad Vltavou
+Libčice n. Vlt.;Libčice nad Vltavou
+Bílá Hora;Praha-Šárka
+Praha 6 - Hanspaulka;Praha-Šárka
+Praha -Dejvice;Praha-Šárka
+Praha 6 - Dejvice;Praha-Šárka
+Praha 6 - Liboc;Praha-Šárka
+Praha 6 - Břevnov;Praha-Šárka
+Praha 8 - Kobylisy;Praha-Kobylisy
+Praha 8 - Karlín;Praha-Vysočany
+Kobylisy;Praha-Kobylisy
+Praha 9 - Kbely;Praha-Letňany
+Praha Kbely;Praha-Letňany
+Praha 21 Újezd nad Lesy;Praha-Běchovice
+Praha 20, Horní Počernice;Praha-Horní Počernice
+Praha - Prosek;Praha-Prosek
+Praha 9 - Kyje;Praha-Letňany
+klubovna Brechtova, Praha;Praha-Jižní Město
+Praha 4 - Háje;Praha-Jižní Město
+Praha 11;Praha-Jižní Město
+Praha 10 - Strašnice;Praha-Vršovice
+klubovna Práčská, Praha;Praha-Vršovice
+klubovna Loučimská 1, Praha 15;Praha-Hostivař
+Praha 10 - Vršovice;Praha-Vršovice
+Benešov;Benešov
+Neveklov;Neveklov
+Týnec nad Sázavou;Týnec nad Sázavou
+Vrchotovy Janovice;Vrchotovy Janovice
+Nučice;Nučice
+Mezouň;Mezouň
+Tachlovice;Tachlovice
+Kladno 2;Kladno
+Radim;Radim
+Kozojedy;Kozojedy
+Kostelec n.Č.l.;Kostelec nad Černými lesy
+KNČL;Kostelec nad Černými lesy
+Ćáslav;Čáslav
+Kutná  Hora;Kutná Hora
+Mělník;Mělník
+Neratovice a okolí;Neratovice
+Dolní Bousov/Obruby;Dolní Bousov
+Růžová 45, Kněžmost;Kněžmost
+Dobrovice;Dobrovice
+Straky;Straky
+Milovice;Milovice
+Skautský srub, Kralupská ul.,Brandýs nad Labem;Brandýs nad Labem
+Hovorčovice;Hovorčovice
+Čelákovice a okolí;Čelákovice
+Zápy, Zeleneč;Zápy
+Zápy;Zápy
+Mníšek pod Brdy a okolí;Mníšek pod Brdy
+Řevnice;Řevnice
+Dobřichovice, Řevnice;Dobřichovice
+Ohrobec;Ohrobec
+Zbraslav;Zbraslav
+Černošice;Černošice
+Višňová;Višňová
+Slivice;Slivice
+Rožmitál pod Třemšínem;Rožmitál pod Třemšínem
+Kosova Hora;Kosova Hora
+Nový Knín;Nový Knín
+Lenora;Lenora
+Vimperk;Vimperk
+Dobrá Voda u Českých Budějovic;České Budějovice
+Křemže;Křemže
+Nové Hrady;Nové Hrady
+Hořice na Šumavě;Hořice na Šumavě
+Český Krumlov;Český Krumlov
+Nová Včelnice;Nová Včelnice
+Čimelice;Čimelice
+Malenice;Malenice
+Tábor-Čekanice;Tábor
+Jistebnice;Jistebnice
+Sepekov, Nadějkov;Sepekov
+Staňkov;Staňkov
+Prapořiště;Prapořiště
+Tachov;Tachov
+Černošín;Černošín
+Janovice nad Úhlavou;Janovice nad Úhlavou
+Švihov;Švihov
+Kašperské Hory;Kašperské Hory
+Hartmanice;Hartmanice
+Hlavňovice;Hlavňovice
+Plzeňský kraj;Klatovy
+Plzeň - Slovany;Plzeň
+Štěnovice;Štěnovice
+Manětín;Manětín
+Starý Plzenec;Starý Plzenec
+Horní Bříza;Horní Bříza
+Příchovice;Příchovice
+Cheb - středisko Dakota;Cheb
+Aš;Aš
+Mariánské Lázně - Úšovice;Mariánské Lázně
+Velká Hleďsebe;Velká Hleďsebe
+Děčín;Děčín
+Roudnice nad Labem, Bezručova 1399;Roudnice nad Labem
+Roudnice;Roudnice nad Labem
+Blíževedly;Blíževedly
+Litvínov;Litvínov
+Zákupy;Zákupy
+Jablonec nad Nisou;Jablonec nad Nisou
+Hejnice;Hejnice
+Hodkovice nad Mohelkou;Hodkovice nad Mohelkou
+Lomnice nad Popelkou;Lomnice nad Popelkou
+Studenec;Studenec
+Rokytnice nad Jizerou;Rokytnice nad Jizerou
+Hronov;Hronov
+Šonov;Šonov
+Skuhrov nad Bělou;Skuhrov nad Bělou
+okres Trutnov;Trutnov
+Mostek;Mostek
+Havlovice;Havlovice
+Rtyně v Podkrkonoší / Havlovice;Rtyně v Podkrkonoší
+Dolní Kalná;Dolní Kalná
+Dolní Lánov;Dolní Lánov
+Hostinné, Vrchlabí, Lánov, Kalná a okolí;Hostinné
+Úpice;Úpice
+středisko Karla Šimka;Hradec Králové
+2. středisko Hradec Králové - Ro;Hradec Králové
+Hradec Králové - Kukleny;Hradec Králové
+Lochenice;Lochenice
+Nový Hradec Králové;Hradec Králové
+Hlinsko;Hlinsko
+Skuteč, Raná;Skuteč
+Chrast;Chrast u Chrudimi
+Proseč;Proseč
+Lázně Bohdaneč;Lázně Bohdaneč
+Ústí nad Orlicí - Hylváty;Ústí nad Orlicí
+Farská 113, Česká Třebová;Česká Třebová
+Letohrad a okolí;Letohrad
+Verměřovice;Verměřovice
+Mistrovice;Mistrovice
+Dolní čermná;Dolní Čermná
+Bystřec;Bystřec
+Králíky;Králíky
+Šlapanov;Šlapanov
+Vohančické údolí, Golčův Jeníkov;Golčův Jeníkov
+Štoky;Štoky
+Světlá nad Sázavou;Světlá nad Sázavou
+Batelov;Batelov
+třída Legionářů 5, 586 01, Jihlava, Česká republika;Jihlava
+Jihlava a okolí;Jihlava
+Jermnice;Jemnice
+Velké Meziříčí;Velké Meziříčí
+Bystřice n. P.;Bystřice nad Pernštejnem
+Ostrov nad Oslavou;Ostrov nad Oslavou
+Blansko - Klepačov;Klepačov
+Šebetov;Šebetov
+Ludíkov;Ludíkov
+Vilémovice;Vilémovice
+Senetářov;Senetářov
+Lipovec;Lipovec
+Vysočany;Vysočany
+Šebrov, Kateřina;Šebrov-Kateřina
+Sloup;Sloup
+Brno-Tuřany;Brno-jih
+Modřice;Modřice
+Brno Soběšice;Brno-sever
+Čebín;Čebín
+Hostěnice;Hostěnice
+Brno - Kohoutovice;Brno-západ
+Brno a blízké okolí;Brno
+Brno-Židenice;Brno-východ
+Lužánky 792, Brno;Brno-střed
+Brno-Žebětín;Brno-západ
+Brno-Ivanovice;Brno-sever
+Moravské Knínice;Moravské Knínice
+Pivovarská 9;Brno-střed
+Brno-Bystrc;Brno-západ
+Brno-Jundrov;Brno-západ
+Bílovice nad Svitavou;Bílovice nad Svitavou
+Brno-Masarykova čtvrť;Brno-střed
+Brno - Starý Lískovec;Brno-jih
+Lelekovice;Lelekovice
+Brno - Líšeň;Brno-východ
+Brno-Líšeň;Brno-východ
+Brno - Slatina;Brno-jih
+Brno - střed;Brno-střed
+Oslavany, M.Krumlov;Oslavany
+Želešice;Želešice
+Doubravník;Doubravník
+Tvarožná;Tvarožná
+Mokrá;Mokrá-Horákov
+Bukovinka, Rousínov;Rousínov
+Ochoz u Brna;Ochoz u Brna
+Židlochovice a Nosislav;Židlochovice
+Blučina;Blučina
+Rajhrad;Rajhrad
+Zbýšov;Zbýšov
+Šlapanice;Šlapanice
+Hustopeče;Hustopeče
+Uherčice;Uherčice
+Pohořelice;Pohořelice
+Rosice;Rosice
+Kostelec, Vlkoš;Kostelec u Kyjova
+Kyjov, Dubňany, Svatobořice-Mistřín, Milotice,  Kostelec, Ježov, Želetice;Kyjov
+Dubňany, Ježov, Kostelec, Kyjov, Svatobořice-Mistřín, Ždánice;Dubňany
+Kyjovsko;Kyjov
+Kostelec, Hýsly;Kostelec u Kyjova
+Vracov;Vracov
+Mutěnice;Mutěnice
+Čejkovice;Čejkovice
+Lužice;Lužice
+Hodonín;Hodonín
+Prušánky;Prušánky
+Velké Hostěrádky;Velké Hostěrádky
+Luleč a okolí;Luleč
+Ivanovice na Hané;Ivanovice na Hané
+Znojmo, U Obří hlavy 7;Znojmo
+Znojmo - Kuchařovice;Znojmo
+Hlušovice;Hlušovice
+Bystrovany;Bystrovany
+Štěpánov;Štěpánov
+Rooseveltova 101, Olomouc;Olomouc
+Purkyňova 3, Olomouc;Olomouc
+Slatinice;Slatinice
+Senička;Senička
+Paseka;Paseka
+Štenberk;Šternberk
+Čechovice;Čechovice
+Doloplazy;Doloplazy
+Velký Újezd;Velký Újezd
+Velká Bystřice;Velká Bystřice
+Velký Týnec;Velký Týnec
+Vacanovice;Vacanovice
+Bělkovice - Lašťany;Bělkovice-Lašťany
+ Bezručova 18, Plumlov;Plumlov
+nám. Svobody 289, Čechy pod Kosířem 798 58;Čechy pod Kosířem
+Brodek;Brodek u Přerova
+Rokytnice u Přerova;Rokytnice u Přerova
+Lipník nad Bečvou;Lipník nad Bečvou
+Libina;Libina
+Zábřeh - Krumpach;Zábřeh
+Skalička;Zábřeh
+Štíty;Štíty
+Olšany;Olšany
+Rovensko;Rovensko
+Rovensko, Sudkov;Rovensko
+Mikulovice;Mikulovice
+Jeseník;Jeseník
+Uherský Ostroh;Uherský Ostroh
+Hluk;Hluk
+Kulturní dům;Polešovice
+Bojkovice 68771;Bojkovice
+Suchá Loz, Bánov;Suchá Loz
+Modrá 103;Modrá
+Jalubí;Jalubí
+Tupesy;Tupesy
+Buchlovice;Buchlovice
+Kateřinice;Kateřinice
+Hrachovec, Valašské Meziříčí;Hrachovec u Valašského Meziříčí
+Hutisko-Solanec;Hutisko-Solanec
+Rožnov;Rožnov pod Radhoštěm
+Želechovice;Želechovice
+Zlín-Malenovice;Zlín-Malenovice
+Zlín- Malenovice;Zlín-Malenovice
+Bruntál;Bruntál
+Frýdek-Místek;Frýdek-Místek
+Místek;Frýdek-Místek
+Frýdlant n.O.;Frýdlant nad Ostravicí
+Paskov;Paskov
+Sviadnov;Sviadnov
+Brušperk;Brušperk
+Hukvaldy;Hukvaldy
+Kozlovice;Kozlovice
+Krmelín;Krmelín
+Morávka, Pražmo, Raškovice, Krásná, Vyšní Lhoty;Pražmo
+Pustá Polom;Pustá Polom
+Dobrá u Frýdku-Místku;Dobrá u Frýdku-Místku
+Dolní Lutyně;Dolní Lutyně
+Karviná;Karviná
+Těrlicko;Těrlicko
+Horní Suchá;Horní Suchá
+Havířov;Havířov
+Třinec;Třinec
+Český Těšín;Český Těšín
+Těšínsko;Český Těšín
+Jeseník nad Odrou, Hůrka;Jeseník nad Odrou
+Veřovice;Veřovice
+Lubina;Lubina
+středisko Příbor;Příbor
+Mořkov;Mořkov
+Závišice, Štramberk;Štramberk
+Rybí;Rybí
+Suchdol nad Odrou;Suchdol nad Odrou
+Spálov;Spálov
+Dub;Starý Jičín
+Studénka;Studénka
+Petřvald;Petřvald
+Bravantice;Bravantice
+Velká Polom;Velká Polom
+Domoradovice;Domoradovice
+Háj ve Slezsku;Háj ve Slezsku
+Štítina - Nové Sedlice;Štítina
+Ostrava;Ostrava
+Ostrava - Hrabůvka;Ostrava-jih
+Moravská Ostrava;Ostrava-střed
+Vřesina;Vřesina
+Ludgeřovice;Ludgeřovice
+Ostrava-Jih;Ostrava-jih
+Petrovice u Karviné ;Petrovice u Karviné
+211.003 středisko Votice;Votice
+Bernartice;Bernartice
+Bílina;Bílina
+Blatná;Blatná
+Bohuňovice;Bohuňovice
+Bor;Bor
+Bosonohy;Brno-jih
+Brandýs n. Lab. - Stará Boleslav;Brandýs nad Labem-Stará Boleslav
+Brandýs nad Labem - Stará Bolesl;Brandýs nad Labem-Stará Boleslav
+Brandýs nad Labem - Stará Boleslav;Brandýs nad Labem-Stará Boleslav
+Brechtova;Praha-Jižní Město
+Brechtova 828;Praha-Jižní Město
+Brno -  Bystrc;Brno-západ
+Brno - Černá pole;Brno-sever
+Brno - Královo pole;Brno-sever
+Brno - Řečkovice;Brno-sever
+Brno-Bohunice;Brno-jih
+Brno-Kohoutovice;Brno-západ
+Brno-Město;Brno-střed
+Brno-Žabovřesky;Brno-západ
+Brodce;Brodce
+Březnice;Březnice
+Bystřice pod Hostýnem;Bystřice pod Hostýnem
+Česká republika;Liberec
+Dobrichovice;Dobřichovice
+Dolní Bousov;Dolní Bousov
+Domžlice;Domažlice
+Donovalská;Praha-Jižní Město
+Drnovice;Drnovice
+Dubňany;Dubňany
+Dvůr Králové n. L.;Dvůr Králové nad Labem
+Fryčovice;Fryčovice
+Fryčovice 38,Fryčovice 739 45;Fryčovice
+Frýdlant  nad Ostravicí;Frýdlant nad Ostravicí
+Fryšták;Fryšták
+Hanušovice;Hanušovice
+Haviřov;Havířov
+Havlíčkova Borová;Havlíčkova Borová
+HLubočky;Hlubočky
+Horní Počernice;Praha-Horní Počernice
+Horní Stronice;Horní Stropnice
+Hořice v Podkrkonoší;Hořice v Podkrkonoší
+Hovězí;Hovězí
+Hradec Králové 4 Pardubická 159;Hradec Králové
+Hrádek nad Nisou, Chotyně;Hrádek nad Nisou
+Hrochův Týnec;Hrochův Týnec
+Hýsly;Hýsly
+Choryň;Choryně
+Chrast u Chrudimi;Chrast u Chrudimi
+Chřibská;Chřibská
+Chyšky;Chyšky
+Ježov;Ježov
+Jilemnice a okolí;Jilemnice
+Kamenický Šenov;Kamenický Šenov
+Klášterec nad Orlicí;Klášterec nad Orlicí
+Klubovna;INDIVIDUAL
+klubovna Loučimská, Praha;Praha-Hostivař
+klubovna Mokrá;Zlín
+klubovna Větrná;Zlín
+Kněžmost;Kněžmost
+Komárov u Šternberka, p.Mladějov;Komárov
+Kostelec;Kostelec
+Kostelec n.Č.lesy;Kostelec nad Černými lesy
+Kouty u Třebíče;Kouty u Třebíče
+Kralice na Hané okr.Prostějov;Kralice na Hané
+Králíky, Mlýnický Dvůr;Králíky
+Kralupy;Kralupy nad Vltavou
+Krucemburk;Krucemburk
+Krupka;Krupka
+Kryry;Kryry
+Křepice;Křepice
+Kyjov, Dubňany, Svatobořice-Mistřín, Milotice, Kostelec, Ježov, Želetice, Hýsly;Kyjov
+Kyjov, Kostelec;Kyjov
+Lázně Toušeň;Lázně Toušeň
+Lesná;Brno-sever
+Letovice, klubovna u fary;Letovice
+Libčice nad Vltavou;Libčice nad Vltavou
+Lipník nad Bečou;Lipník nad Bečvou
+Loket nad Ohří;Loket
+Milénova 16, Brno, 638 00;Brno-sever
+Milotice;Milotice
+Mlýnská 8a, Vyškov, 68201;Vyškov
+Mnichovo Hradiště a okolí;Mnichovo Hradiště
+Modřany;Praha-Modřany
+Mokrá, Tvarožná;Mokrá-Horákov
+Mokrá-Horákov;Mokrá-Horákov
+Morávka, Pražmo, Raškovice;Pražmo
+Moravský Krumlov;Moravský Krumlov
+Mutějovice;Mutějovice
+Na Větru 1133;Lanškroun
+Náchod - Kelba;Náchod
+Nechanice;Nechanice
+Nosislav;Nosislav
+Nový Hrozenkov;Nový Hrozenkov
+Obecnice;Obecnice
+Odolena voda, Užice;Odolena Voda
+Olomouc - Holice;Olomouc
+Ořechov;Ořechov
+Ostrava-Poruba;Ostrava-západ
+Ostrov u Macochy;Ostrov u Macochy
+OÚ Želechovice;Želechovice
+Palkovice;Palkovice
+Pohled;Pohled
+Polanka nad Odrou;Ostrava-západ
+Praha - Kolovraty;Praha-Uhříněves
+Praha - Modřany;Praha-Modřany
+Praha - Radotín;Praha-Radotín
+Praha 1, Nerudova 33;Praha-střed
+Praha 10 - Zahradní Město;Praha-Vršovice
+Praha 5 - Barrandov;Praha-Smíchov
+Praha 6 - Břevnov a Liboc;Praha-Šárka
+Praha 7 a Praha 5;Praha-Holešovice
+Praha 8 - Libeň;Praha-Vysočany
+Praha 8- Kobylisy;Praha-Kobylisy
+Praha Čakovice, Praha Kbely, Praha Letňany;Praha-Letňany
+Praha11;Praha-Jižní Město
+Praha-Radotín;Praha-Radotín
+Pražmo, Morávka, Raškovice;Pražmo
+Prumperk 3;Brno-sever
+Rakovník;Rakovník
+Raná;Raná
+Ratíškovice, Skoronice, Vlkoš, Mutěnice, Vracov;Ratíškovice
+Rokytnice v Orl. horách;Rokytnice v Orlických horách
+Sepekov, Chyšky;Chyšky
+Skoronice;Skoronice
+Slavičín (Hranice na Moravě), Uherský Brod;Slavičín
+Slovinská;Brno-sever
+Soběšovice;Soběšovice
+Sokolnice;Sokolnice
+Sokolov;Sokolov
+Sokolovská 79;Hradec Králové
+Sokolská 30, Prostějov;Prostějov
+"Srub; klubovna za hřbitovem";Židlochovice
+Starý Jičín;Starý Jičín
+Strmilov;Strmilov
+Stromovka 3, České Budějovice;České Budějovice
+SUD;Jindřichův Hradec
+Svatobořice-Mistřín;Svatobořice-Mistřín
+Tanvald;Tanvald
+Telč;Telč
+Tetčice;Tetčice
+Třemošná;Třemošná
+Třemošnice;Třemošnice
+Týnec;Týnec nad Sázavou
+Uhřičice;Uhřičice
+Újezd;Újezd
+Ústí nad Labem - Krásné Březno;Ústí nad Labem
+Vejprty;Vejprty
+Velké Poříčí;Velké Poříčí
+Veselí n. Mor.;Veselí nad Moravou
+Veselí n/Luž.- Pod parkem;Veselí nad Lužnicí
+Vrchlabí, Lánov, Špindlerův Mlýn, Kunčice n. L., Dolní Kalná;Vrchlabí
+Vysoké  Mýto;Vysoké Mýto
+Vyšší Brod;Vyšší Brod
+Zlín - Malenovice;Zlín-Malenovice
+Zruč - Senec;Zruč-Senec
+ZŠ TGM Frýdlant n.O.;Frýdlant nad Ostravicí
+ZŠ Zeleneč;Zeleneč
+ZŠ Želechovice;Želechovice
+Žatčany;Žatčany
+Želetice;Želetice
+Židlochovice, Blučina, Nosislav;Židlochovice
+Žirovnice;Žirovnice
+Žirovnice a okolí;Žirovnice
+Brno-Kohoutovice, Žebětín;Brno-západ

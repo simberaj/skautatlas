@@ -1,0 +1,2596 @@
+regno;place_refined
+112.02;Praha-střed
+112.31;Zbraslav
+112.47;Praha-Žižkov
+112.53;Praha-Vysočany
+112.99;Praha-Žižkov
+113.04;Praha-Žižkov
+113.05;Praha-střed
+113.61;Praha-Žižkov
+114.05;Praha-Modřany
+114.07;Praha-Pankrác
+114.32;Praha-Pankrác
+114.34;Praha-Pankrác
+114.43;Praha-Kunratice
+114.57;Praha-Pankrác
+115.55;Praha-Smíchov
+115.56;Praha-Smíchov
+115.58;Praha-Smíchov
+115.76;Praha-Radotín
+115.85;Praha-Holešovice
+116.06;Praha-Šárka
+116.08;Libčice nad Vltavou
+116.10;Praha-Šárka
+116.11;Praha-Šárka
+116.18;Praha-Šárka
+116.22;Praha-Šárka
+116.30;Praha-Šárka
+116.33;Praha-Šárka
+116.73;Praha-Šárka
+116.74;Kralupy nad Vltavou
+116.81;Roztoky
+118.24;Praha-Kobylisy
+118.39;Praha-Holešovice
+118.42;Odolena Voda
+118.45;Praha-Holešovice
+118.46;Praha-Kobylisy
+118.52;Praha-Kobylisy
+118.88;Praha-Kobylisy
+119.17;Praha-Vysočany
+119.23;Praha-Běchovice
+119.27;Praha-Horní Počernice
+119.67;Praha-Prosek
+119.84;Praha-Vysočany
+11A.10;Praha-Vršovice
+11A.20;Praha-Pankrác
+11A.35;Praha-Jižní Město
+11A.50;Praha-Vršovice
+11A.62;Praha-Horní Počernice
+11A.77;Praha-Vršovice
+11A.92;Praha-Běchovice
+11A.93;Praha-Šárka
+11A.96;Praha-Pankrác
+211.01;Benešov
+211.02;Vlašim
+211.03;Kamenice
+211.05;Votice
+212.01;Beroun
+212.02;Hořovice
+212.03;Králův Dvůr
+212.04;Beroun
+212.07;Rudná
+212.08;Mořina
+212.10;Nové Strašecí
+213.01;Kladno
+213.02;Kladno
+213.03;Buštěhrad
+213.04;Libušín
+213.05;Slaný
+214.01;Kolín
+214.02;Kolín
+214.04;Starý Kolín
+214.05;Červené Pečky
+214.07;Český Brod
+214.09;Kolín
+214.11;Kouřim
+214.12;Ratboř
+214.14;Český Brod
+214.15;Kostelec nad Černými lesy
+214.19;Plaňany
+215.01;Kutná Hora
+215.02;Čáslav
+215.04;Kutná Hora
+215.05;Dolní Bučice
+215.06;Uhlířské Janovice
+215.07;Ronov nad Doubravou
+216.01;Mělník
+216.03;Kostelec nad Labem
+216.04;Neratovice
+216.07;Liběchov
+216.08;Neratovice
+217.01;Mladá Boleslav
+217.02;Benátky nad Jizerou
+217.08;Mnichovo Hradiště
+217.10;Mladá Boleslav
+217.11;Bělá pod Bezdězem
+218.01;Nymburk
+218.02;Nymburk
+218.03;Lysá nad Labem
+218.04;Městec Králové
+218.07;Poděbrady
+218.09;Sadská
+218.10;Nymburk
+219.01;Brandýs nad Labem
+219.02;Jirny
+219.03;Klecany
+219.04;Líbeznice
+219.05;Čelákovice
+219.06;Říčany
+219.08;Úvaly
+219.09;Stará Boleslav
+219.10;Brandýs nad Labem
+219.11;Zápy
+21A.01;Mníšek pod Brdy
+21A.02;Dobřichovice
+21A.06;Vrané nad Vltavou
+21A.07;Všenory
+21A.08;Zbraslav
+21A.09;Hostivice
+21A.13;Černošice
+21B.01;Příbram
+21B.02;Příbram
+21B.04;Rožmitál pod Třemšínem
+21B.07;Sedlčany
+21B.08;Dobříš
+310.31;Jindřichův Hradec
+310.32;Třeboň
+310.41;Písek
+311.01;Prachatice
+311.02;Vimperk
+311.03;České Budějovice
+311.04;České Budějovice
+311.07;Týn nad Vltavou
+311.13;Kaplice
+312.03;Velešín
+312.05;Horní Stropnice
+312.06;Holubov
+313.03;Dačice
+313.04;Slavonice
+313.08;Lomnice nad Lužnicí
+313.13;Kamenice nad Lipou
+314.01;Písek
+314.02;Písek
+314.03;Písek
+314.07;Milevsko
+314.08;Protivín
+316.01;Strakonice
+316.02;Volyně
+316.04;Vodňany
+317.01;Tábor
+317.03;Sezimovo Ústí
+317.04;Bechyně
+317.05;Veselí nad Lužnicí
+317.07;Borotín
+317.09;Planá nad Lužnicí
+317.13;Opařany
+317.14;Veselí nad Lužnicí
+321.01;Domažlice
+321.03;Holýšov
+321.05;Prapořiště
+321.07;Tachov
+322.01;Klatovy
+322.02;Horažďovice
+322.03;Sušice
+322.04;Pačejov
+322.05;Klatovy
+323.01;Plzeň
+323.02;Plzeň
+323.03;Plzeň
+323.04;Plzeň
+323.05;Plzeň
+323.06;Tlučná
+323.07;Plzeň
+323.08;Kralovice
+323.09;Plzeň
+324.02;Přeštice
+324.03;Dnešice
+324.04;Přeštice
+324.05;Dobřany
+324.07;Spálené Poříčí
+326.01;Rokycany
+326.03;Radnice
+326.04;Strašice
+326.09;Zbiroh
+411.01;Cheb
+411.03;Cheb
+411.04;Aš
+411.05;Františkovy Lázně
+411.06;Mariánské Lázně
+411.07;Luby
+412.04;Jáchymov
+412.05;Nejdek
+412.11;Karlovy Vary
+413.04;Chodov
+413.05;Kynšperk nad Ohří
+413.07;Habartov
+413.09;Horní Slavkov
+413.10;Loket
+421.01;Děčín
+421.02;Varnsdorf
+421.03;Rumburk
+421.04;Děčín
+421.08;Šluknov
+422.01;Chomutov
+422.03;Klášterec nad Ohří
+422.04;Jirkov
+422.05;Kadaň
+422.06;Žatec
+423.01;Terezín
+423.02;Roudnice nad Labem
+423.03;Lovosice
+423.04;Libochovice
+423.05;Štětí
+423.06;Litoměřice
+425.01;Most
+425.02;Litvínov
+425.03;Louny
+426.01;Teplice
+426.02;Teplice
+427.01;Ústí nad Labem
+427.02;Ústí nad Labem
+511.01;Česká Lípa
+511.02;Nový Bor
+511.04;Doksy
+511.05;Mimoň
+512.01;Jablonec nad Nisou
+513.01;Liberec
+513.04;Liberec
+513.05;Liberec
+513.07;Liberec
+513.09;Liberec
+513.10;Liberec
+513.12;Hrádek nad Nisou
+513.15;Český Dub
+514.01;Semily
+514.02;Turnov
+514.03;Jilemnice
+514.06;Železný Brod
+514.07;Tatobity
+514.11;Jilemnice
+521.01;Třebechovice pod Orebem
+521.02;Stěžery
+521.03;Chlumec nad Cidlinou
+522.01;Jičín
+522.02;Hořice v Podkrkonoší
+522.03;Nová Paka
+522.04;Miletín
+522.05;Lázně Bělohrad
+523.01;Náchod
+523.04;Police nad Metují
+523.06;Broumov
+523.07;Červený Kostelec
+523.09;Česká Skalice
+523.10;Nové Město nad Metují
+523.11;Jaroměř
+524.01;Rychnov nad Kněžnou
+524.03;Kostelec nad Orlicí
+524.06;Opočno
+524.07;Dobruška
+524.09;Vamberk
+525.01;Trutnov
+525.02;Dvůr Králové nad Labem
+525.03;Rtyně v Podkrkonoší
+525.04;Hostinné
+525.05;Vrchlabí
+525.06;Malé Svatoňovice
+525.07;Svoboda nad Úpou
+526.01;Hradec Králové
+526.02;Hradec Králové
+526.04;Hradec Králové
+526.05;Hradec Králové
+526.06;Hradec Králové
+526.07;Hradec Králové
+531.01;Chrudim
+531.02;Slatiňany
+531.03;Hlinsko
+531.04;Skuteč
+531.06;Chrast u Chrudimi
+531.07;Nasavrky
+531.08;Heřmanův Městec
+531.10;Proseč
+531.11;Luže
+531.13;Kameničky
+532.03;Pardubice
+532.04;Chvaletice
+532.05;Holice
+532.06;Pardubice
+532.07;Pardubice
+532.08;Přelouč
+532.10;Pardubice
+532.11;Sezemice
+532.12;Pardubice
+533.01;Svitavy
+533.02;Litomyšl
+533.03;Polička
+533.04;Moravská Třebová
+533.07;Dolní Újezd
+534.01;Ústí nad Orlicí
+534.03;Česká Třebová
+534.04;Choceň
+534.05;Vysoké Mýto
+534.06;Lanškroun
+534.07;Žamberk
+534.08;Letohrad
+534.09;Jablonné nad Orlicí
+534.11;Brandýs nad Orlicí
+534.12;Dolní Dobrouč
+534.15;Červená Voda
+610.23;Chotěboř
+611.01;Havlíčkův Brod
+611.04;Ledeč nad Sázavou
+611.05;Přibyslav
+611.10;Havlíčkův Brod
+612.01;Jihlava
+612.02;Batelov
+612.04;Jihlava
+613.03;Humpolec
+613.04;Počátky
+613.05;Pelhřimov
+614.01;Třebíč
+614.03;Luka nad Jihlavou
+614.04;Moravské Budějovice
+614.05;Jemnice
+614.06;Budišov
+614.07;Velké Meziříčí
+614.10;Třebíč
+615.02;Nové Město na Moravě
+615.03;Bystřice nad Pernštejnem
+615.04;Žďár nad Sázavou
+615.05;Svratka
+615.06;Polná
+621.01;Blansko
+621.02;Rájec-Jestřebí
+621.03;Boskovice
+621.04;Letovice
+621.05;Jedovnice
+621.07;Blansko
+622.01;Brno
+622.02;Brno
+622.06;Brno
+622.08;Brno
+622.09;Brno-západ
+622.10;Brno-východ
+622.12;Brno
+622.13;Brno-střed
+622.15;Brno
+622.16;Brno-sever
+622.22;Brno-střed
+622.24;Brno-jih
+622.25;Brno
+622.26;Brno
+622.27;Brno
+622.28;Brno
+623.01;Oslavany
+623.04;Ivančice
+623.11;Střelice
+623.14;Újezd u Brna
+623.15;Tišnov
+623.16;Kuřim
+623.17;Veverská Bítýška
+623.18;Křtiny
+623.21;Pozořice
+623.25;Židlochovice
+623.26;Domašov
+623.30;Šlapanice
+623.31;Vranovice
+624.01;Břeclav
+624.03;Mikulov
+625.02;Kyjov
+625.03;Veselí nad Moravou
+625.04;Ratíškovice
+625.05;Mikulčice
+625.06;Hodonín
+625.09;Klobouky u Brna
+626.01;Vyškov
+626.03;Slavkov u Brna
+627.01;Jevišovice
+627.02;Znojmo
+627.03;Znojmo
+712.03;Olomouc
+712.04;Olomouc
+712.05;Olomouc
+712.06;Olomouc
+712.07;Olomouc
+712.08;Olomouc
+712.09;Olomouc
+712.13;Šternberk
+712.18;Dub nad Moravou
+712.19;Velký Týnec
+712.21;Bělkovice-Lašťany
+713.02;Prostějov
+713.03;Prostějov
+713.04;Kostelec na Hané
+713.05;Prostějov
+713.07;Konice
+713.08;Vrbátky
+714.01;Přerov
+714.02;Brodek u Přerova
+714.03;Kojetín
+714.04;Lipník nad Bečvou
+714.05;Hranice
+715.01;Šumperk
+715.03;Bludov
+715.04;Postřelmov
+715.06;Zábřeh
+715.07;Hoštejn
+715.08;Loštice
+715.10;Lesnice
+715.11;Ruda nad Moravou
+715.13;Zábřeh
+715.15;Jeseník
+715.18;Staré Město
+721.01;Kroměříž
+721.02;Lipník nad Bečvou
+721.03;Kroměříž
+721.06;Holešov
+721.07;Chropyně
+722.01;Uherské Hradiště
+722.02;Staré Město
+722.03;Polešovice
+722.08;Uherský Brod
+722.09;Bojkovice
+722.10;Suchá Loz
+722.11;Modrá
+723.01;Vsetín
+723.02;Valašské Meziříčí
+723.03;Lidečko
+723.04;Rožnov pod Radhoštěm
+723.06;Kelč
+724.03;Zlín
+724.04;Zlín
+724.06;Zlín
+724.07;Zlín-Malenovice
+724.08;Otrokovice
+724.09;Napajedla
+724.10;Luhačovice
+724.11;Slavičín
+724.12;Vizovice
+724.14;Pozlovice
+724.15;Štítná nad Vláří
+724.17;Brumov-Bylnice
+724.18;Slušovice
+811.01;Bruntál
+811.02;Krnov
+811.03;Rýmařov
+811.04;Zlaté Hory
+812.01;Frýdek-Místek
+812.02;Frýdek-Místek
+812.04;Frýdlant nad Ostravicí
+812.05;Šenov
+812.06;Frýdek-Místek
+812.07;Staříč
+812.09;Pražmo
+812.10;Dobrá u Frýdku-Místku
+813.01;Rychvald
+813.02;Havířov
+813.03;Třinec
+813.08;Český Těšín
+814.01;Nový Jičín
+814.02;Příbor
+814.04;Kopřivnice
+814.05;Štramberk
+814.06;Odry
+814.07;Albrechtičky
+815.01;Opava
+815.02;Opava
+815.03;Opava
+815.04;Opava
+815.05;Háj ve Slezsku
+815.08;Dolní Životice
+815.09;Nový Jičín
+816.02;Ostrava-střed
+816.04;Ostrava-střed
+816.05;Ostrava-západ
+816.06;Ostrava-západ
+816.07;Klimkovice
+816.08;Ostrava-západ
+816.09;Ostrava-jih
+816.10;Ostrava-jih
+816.11;Ostrava-jih
+816.14;Ostrava-západ
+816.15;Ostrava-jih
+816.16;Ostrava-západ
+112.02.002-1;Praha-střed
+112.02.002-3;Praha-střed
+112.02.002-5;Praha-Smíchov
+112.02.002-7;Praha-střed
+112.02.003-2;Praha
+112.02.046;Praha-střed
+112.02.307;Praha
+112.31.005-1;Praha
+112.31.005-2;Praha
+112.31.007-1;Praha-střed
+112.31.007-2;Praha
+112.31.031;Praha-střed
+112.31.035-1;Praha-Černý Most
+112.31.035-2;Praha
+112.31.035-3;Praha-Vysočany
+112.31.145;Praha
+112.47.038;Praha-střed
+112.47.049;Praha
+112.47.101;Praha
+112.47.377;Praha
+112.47.378;Praha
+112.47.379;Praha-Smíchov
+112.53.048;Praha-střed
+112.53.100;Praha-Vysočany
+112.53.106-1;Praha-Vysočany
+112.53.106-2;Praha-Vysočany
+112.53.106-3;Praha-Vysočany
+112.53.106-4;Praha-Vysočany
+112.99.053;Praha
+112.99.067;Praha
+112.99.166;Praha-střed
+112.99.170;Praha-střed
+112.99.170-1;Praha-střed
+113.04.004-1;Praha-Žižkov
+113.04.004-2;Praha-Žižkov
+113.04.004-3;Praha-Žižkov
+113.04.004-4;Praha-Žižkov
+113.04.004-5;Praha-Žižkov
+113.04.033;Praha-Vysočany
+113.04.044;Praha
+113.05.001-1;Praha-střed
+113.05.004-1;Praha-střed
+113.05.005-1;Praha-střed
+113.05.013-1;Praha-střed
+113.61.001;Praha-Žižkov
+113.61.003;Praha-Žižkov
+113.61.061;Praha-Žižkov
+113.61.068;Praha-Žižkov
+113.61.073;Praha-střed
+113.61.084;Praha-Žižkov
+113.61.271;Praha-Žižkov
+114.05.075-1;Praha-Pankrác
+114.05.075-2;Praha-Pankrác
+114.05.075-3;Praha
+114.05.090;Praha-Modřany
+114.05.162;Praha-Modřany
+114.07.020;Praha-střed
+114.07.023;Praha-Pankrác
+114.07.044-3;Praha
+114.07.077-3;Praha
+114.07.137-2;Praha-Pankrác
+114.07.137-3;Praha
+114.07.137-4;Praha
+114.07.138;Praha
+114.07.138-3;Praha
+114.07.138-4;Praha
+114.07.151;Praha-Pankrác
+114.07.167;Říčany
+114.07.168-3;Praha
+114.07.172;Praha-Kunratice
+114.07.262-1;Praha
+114.32.012;Praha-Pankrác
+114.32.032;Praha-Pankrác
+114.32.094;Praha-Pankrác
+114.32.140;Praha-Pankrác
+114.32.180;Praha-Pankrác
+114.34.005-4;Praha-Pankrác
+114.34.034-2;Praha-Pankrác
+114.34.034-9;Praha-Pankrác
+114.34.066-1;Praha-Pankrác
+114.34.066-3;Praha-Pankrác
+114.34.066-9;Praha-Pankrác
+114.34.145-0;Praha-Pankrác
+114.34.145-1;Praha-Pankrác
+114.34.145-3;Praha-Pankrác
+114.34.145-7;Praha-Pankrác
+114.43.007;Praha-Kunratice
+114.43.017;Praha-Kunratice
+114.43.035;Praha-Kunratice
+114.43.177;Praha-Kunratice
+114.57.157;Praha-Pankrác
+114.57.357;Praha-Pankrác
+114.57.457;Praha-Pankrác
+115.55.096-1;Praha
+115.55.096-2;Praha
+115.55.159;Praha
+115.56.056;Praha-Smíchov
+115.56.097-1;Praha-Smíchov
+115.56.097-2;Praha-Smíchov
+115.56.097-4;Praha-Smíchov
+115.56.098;Praha-Smíchov
+115.56.156;Praha-Smíchov
+115.58.126;Praha-Smíchov
+115.58.319-1;Praha-Smíchov
+115.58.326;Praha-Smíchov
+115.58.445;Praha-Smíchov
+115.76.125;Praha-Radotín
+115.76.155;Praha-Radotín
+115.76.576;Praha-Radotín
+115.76.765;Praha-Radotín
+115.85.007;Praha-Holešovice
+115.85.089;Praha-Holešovice
+115.85.116;Praha-Holešovice
+115.85.131;Praha
+115.85.189;Praha-Smíchov
+116.06.008-6;Praha
+116.06.008-7;Praha-Šárka
+116.06.021-1;Praha
+116.06.021-2;Praha
+116.06.021-3;Praha
+116.06.021-4;Praha
+116.06.021-5;Praha-Šárka
+116.06.028;Praha-Suchdol
+116.08.082-1;Libčice nad Vltavou
+116.08.082-3;Libčice nad Vltavou
+116.10.010-1;Praha-Šárka
+116.10.010-2;Praha-Šárka
+116.10.010-3;Praha-Šárka
+116.10.010-4;Praha-Šárka
+116.10.029;Praha-Šárka
+116.11.014;Praha-Šárka
+116.11.107;Praha-Šárka
+116.11.111;Praha-Šárka
+116.11.121;Praha-Šárka
+116.18.018-2;Praha-Šárka
+116.18.018-3;Praha-Šárka
+116.18.018-4;Praha-Šárka
+116.18.018-5;Praha-Šárka
+116.18.018-6;Praha-Šárka
+116.22.001;Praha-Šárka
+116.22.008;Praha-Šárka
+116.22.021;Praha-Šárka
+116.22.022;Praha-Šárka
+116.22.221;Praha-Šárka
+116.22.222;Praha-Šárka
+116.30.006;Praha-Šárka
+116.30.069;Praha-Šárka
+116.30.126;Praha-Šárka
+116.30.139;Praha-Šárka
+116.33.043;Praha-Šárka
+116.33.175;Praha-Šárka
+116.33.315;Praha-Šárka
+116.73.001;Praha-Šárka
+116.73.002;Praha-Šárka
+116.73.003;Praha-Šárka
+116.74.070-1;Kralupy nad Vltavou
+116.74.070-2;Kralupy nad Vltavou
+116.74.079-3;Kralupy nad Vltavou
+116.74.079-5;Kralupy nad Vltavou
+116.74.086-6;Kralupy nad Vltavou
+116.81.001;Roztoky
+116.81.019;Roztoky
+116.81.073;Roztoky
+116.81.102-1;Roztoky
+116.81.102-2;Roztoky
+118.24.024-1;Praha-Kobylisy
+118.24.024-2;Praha-Kobylisy
+118.24.024-3;Praha-Kobylisy
+118.24.024-5;Praha-Kobylisy
+118.24.024-6;Praha-Kobylisy
+118.24.024-7;Praha-Kobylisy
+118.24.224;Praha-Kobylisy
+118.39.075;Praha-Holešovice
+118.39.075-1;Praha-Holešovice
+118.39.075-2;Praha-Holešovice
+118.42.001;Odolena Voda
+118.42.002;Odolena Voda
+118.45.143-1;Praha-Kobylisy
+118.45.143-2;Praha-Kobylisy
+118.45.143-3;Praha-Kobylisy
+118.46.032-1;Praha-Kobylisy
+118.46.032-2;Praha-Vysočany
+118.46.033-1;Praha-Kobylisy
+118.46.033-2;Praha
+118.52.120-0;Praha
+118.52.120-1;Praha-Kobylisy
+118.52.120-2;Praha-Kobylisy
+118.52.120-3;Praha-Kobylisy
+118.52.120-5;Praha-Kobylisy
+118.52.120-9;Praha-Kobylisy
+118.88.001;Praha-Kobylisy
+118.88.088;Praha-Kobylisy
+118.88.088-1;Praha-Kobylisy
+118.88.101;Praha-Kobylisy
+118.88.188;Praha-Kobylisy
+119.17.009;Praha-Vysočany
+119.17.012-2;Praha-Vysočany
+119.17.015;Praha-Letňany
+119.17.017;Praha-Letňany
+119.17.036;Praha-Vysočany
+119.17.044;Praha-Vysočany
+119.23.001;Praha-Běchovice
+119.23.022;Praha-Běchovice
+119.23.028;Praha-Běchovice
+119.27.092;Praha-Horní Počernice
+119.27.092-1;Praha-Horní Počernice
+119.27.092-2;Praha-Horní Počernice
+119.27.092-3;Praha-Horní Počernice
+119.27.092-4;Praha-Horní Počernice
+119.67.105;Praha
+119.67.107;Praha
+119.67.108;Praha
+119.67.110;Praha
+119.67.111;Praha-Prosek
+119.67.112;Praha
+119.84.065-1;Praha-Letňany
+119.84.065-2;Praha-Letňany
+119.84.065-3;Praha-Letňany
+119.84.265;Praha-Letňany
+11A.10.110;Praha-Jižní Město
+11A.10.113-9;Praha-Vršovice
+11A.10.148-1;Praha-Vršovice
+11A.10.150-1;Praha-Žižkov
+11A.20.026;Praha-Jižní Město
+11A.20.081;Praha
+11A.20.129;Praha-Jižní Město
+11A.35.035;Praha-Vršovice
+11A.35.305;Praha-Vršovice
+11A.35.309;Praha-Jižní Město
+11A.50.160-1;Praha
+11A.50.160-2;Praha
+11A.50.160-3;Praha
+11A.77.052;Praha-střed
+11A.77.137;Praha-Vršovice
+11A.77.252;Praha-Vršovice
+11A.77.301-1;Praha-Vršovice
+11A.77.302;Praha-Vršovice
+11A.77.311;Praha-Vršovice
+11A.92.001-1;Praha-Vršovice
+11A.92.001-2;Praha-Vršovice
+11A.92.008;Praha
+11A.92.080;Praha-Hostivař
+11A.93.076;Praha-Jižní Město
+11A.93.078;Praha-Jižní Město
+11A.93.118;Praha-Jižní Město
+11A.96.077;Praha-Vršovice
+11A.96.096;Praha-Vršovice
+11A.96.198;Praha-Vršovice
+211.01.001;Benešov
+211.01.007;Benešov
+211.01.010;Neveklov
+211.01.047;Benešov
+211.02.002;Vlašim
+211.02.003;Vlašim
+211.02.007;Vlašim
+211.02.060;Vlašim
+211.03.003;Týnec nad Sázavou
+211.03.021;Kamenice
+211.03.457;Kamenice
+211.05.001;Votice
+211.05.002;Vrchotovy Janovice
+211.05.212;Votice
+212.01.001;Beroun
+212.01.004;Beroun
+212.01.005;Beroun
+212.01.006;Beroun
+212.01.007;Beroun
+212.01.080;Beroun
+212.02.003;Hořovice
+212.03.001;Králův Dvůr
+212.03.002;Králův Dvůr
+212.03.003;Králův Dvůr
+212.03.004;Beroun
+212.04.001;Beroun
+212.04.002;Beroun
+212.04.003;Beroun
+212.04.004;Beroun
+212.04.005;Beroun
+212.04.201;Beroun
+212.07.001;Rudná
+212.07.002;Rudná
+212.07.003;Rudná
+212.07.004;Rudná
+212.07.056;Nučice
+212.08.001-1;Mezouň
+212.08.002-1;Tachlovice
+212.08.003-1;Mořina
+212.10.001;Nové Strašecí
+212.10.002;Nové Strašecí
+212.10.003;Nové Strašecí
+212.10.004;Nové Strašecí
+213.01.001;Kladno
+213.01.002;Kladno
+213.01.007;Kladno
+213.01.011;Kladno
+213.01.018;Kladno
+213.01.075;Kladno
+213.02.002;Kladno
+213.02.004;Kladno
+213.02.007;Buštěhrad
+213.02.039;Kladno
+213.03.001;Buštěhrad
+213.03.005;Buštěhrad
+213.03.006;Buštěhrad
+213.03.406;Buštěhrad
+213.03.410;Buštěhrad
+213.04.001;Libušín
+213.04.003;Libušín
+213.04.005;Libušín
+213.04.006;Libušín
+213.04.007;Libušín
+213.05.001;Slaný
+213.05.003;Slaný
+213.05.007;Slaný
+213.05.072;Slaný
+214.01.001;Kolín
+214.01.002;Kolín
+214.01.006;Kolín
+214.01.007;Kolín
+214.01.017;Kolín
+214.01.104;Kolín
+214.02.007;Kolín
+214.02.008;Kolín
+214.02.022;Kolín
+214.02.271;Kolín
+214.04.003;Starý Kolín
+214.04.018;Starý Kolín
+214.04.204;Starý Kolín
+214.05.006;Červené Pečky
+214.05.007;Červené Pečky
+214.05.008;Červené Pečky
+214.05.009;Červené Pečky
+214.05.011;Červené Pečky
+214.05.012;Červené Pečky
+214.05.013;Červené Pečky
+214.05.014;Červené Pečky
+214.07.001-1;Český Brod
+214.07.001-2;Český Brod
+214.07.001-3;Český Brod
+214.07.001-4;Český Brod
+214.07.001-5;Český Brod
+214.09.005;Kolín
+214.09.006;Kolín
+214.09.009;Kolín
+214.09.025;Radim
+214.09.209;Kolín
+214.11.006;Kouřim
+214.11.007;Kouřim
+214.11.008;Kouřim
+214.11.009;Kouřim
+214.11.010;Kouřim
+214.11.477;Kouřim
+214.12.001;Ratboř
+214.12.002;Ratboř
+214.12.003;Ratboř
+214.12.006;Kozojedy
+214.12.479;Ratboř
+214.14.001;Český Brod
+214.14.002;Český Brod
+214.14.003;Český Brod
+214.14.481;Český Brod
+214.15.001;Kostelec nad Černými lesy
+214.15.002;Kostelec nad Černými lesy
+214.15.008;Kostelec nad Černými lesy
+214.15.012;Kostelec nad Černými lesy
+214.19.001;Plaňany
+214.19.002;Plaňany
+214.19.003;Plaňany
+214.19.006;Plaňany
+214.19.484;Plaňany
+215.01.001;Kutná Hora
+215.01.003;Kutná Hora
+215.01.005;Kutná Hora
+215.01.007;Kutná Hora
+215.01.009;Kutná Hora
+215.01.013;Kutná Hora
+215.02.001;Čáslav
+215.02.004;Čáslav
+215.02.005;Čáslav
+215.04.002;Kutná Hora
+215.04.017;Kutná Hora
+215.04.040;Kutná Hora
+215.04.071;Kutná Hora
+215.05.053;Dolní Bučice
+215.05.054;Dolní Bučice
+215.05.055;Dolní Bučice
+215.05.056;Dolní Bučice
+215.06.161-1;Uhlířské Janovice
+215.06.261-1;Uhlířské Janovice
+215.06.361-1;Uhlířské Janovice
+215.07.073-1;Ronov nad Doubravou
+215.07.074;Ronov nad Doubravou
+215.07.078-1;Ronov nad Doubravou
+216.01.001;Mělník
+216.01.002;Mělník
+216.01.003;Mělník
+216.03.001;Kostelec nad Labem
+216.03.002;Kostelec nad Labem
+216.03.003;Kostelec nad Labem
+216.04.002;Neratovice
+216.04.004;Neratovice
+216.04.006;Neratovice
+216.07.004;Liběchov
+216.07.005;Liběchov
+216.07.616;Liběchov
+216.08.001;Neratovice
+216.08.006;Neratovice
+216.08.009;Neratovice
+216.08.012;Neratovice
+216.08.015;Neratovice
+216.08.033;Neratovice
+217.01.002;Mladá Boleslav
+217.01.003;Mladá Boleslav
+217.01.007;Mladá Boleslav
+217.01.485;Mladá Boleslav
+217.02.002;Benátky nad Jizerou
+217.02.003;Benátky nad Jizerou
+217.02.005;Benátky nad Jizerou
+217.02.007;Mladá Boleslav
+217.08.001;Dolní Bousov
+217.08.004;Kněžmost
+217.08.005;Mnichovo Hradiště
+217.10.001;Dobrovice
+217.10.004;Mladá Boleslav
+217.10.005;Mladá Boleslav
+217.11.001;Bělá pod Bezdězem
+217.11.002;Bělá pod Bezdězem
+217.11.005;Bělá pod Bezdězem
+218.01.001;Nymburk
+218.01.003;Nymburk
+218.01.007;Nymburk
+218.02.002-1;Nymburk
+218.02.006;Straky
+218.02.098;Nymburk
+218.03.001;Lysá nad Labem
+218.03.003;Lysá nad Labem
+218.03.004;Lysá nad Labem
+218.03.008;Lysá nad Labem
+218.03.009;Milovice
+218.04.001-1;Městec Králové
+218.04.001-2;Městec Králové
+218.04.001-3;Městec Králové
+218.04.024;Městec Králové
+218.04.030;Městec Králové
+218.04.040;Městec Králové
+218.07.001-1;Poděbrady
+218.07.002-1;Poděbrady
+218.07.002-2;Poděbrady
+218.07.003-3;Poděbrady
+218.07.086;Poděbrady
+218.09.003;Sadská
+218.09.009;Sadská
+218.10.001;Nymburk
+218.10.002;Nymburk
+218.10.003;Nymburk
+218.10.004;Nymburk
+218.10.005;Nymburk
+219.01.007;Brandýs nad Labem
+219.01.008;Brandýs nad Labem
+219.01.012;Brandýs nad Labem
+219.02.001-1;Jirny
+219.02.001-2;Jirny
+219.02.027;Jirny
+219.03.001;Klecany
+219.03.003;Klecany
+219.03.005;Klecany
+219.03.009;Klecany
+219.03.013;Klecany
+219.04.001;Líbeznice
+219.04.004;Líbeznice
+219.04.007;Líbeznice
+219.04.008;Líbeznice
+219.04.010;Hovorčovice
+219.04.011;Líbeznice
+219.04.014;Líbeznice
+219.04.077;Líbeznice
+219.05.001;Čelákovice
+219.05.002;Čelákovice
+219.05.004;Čelákovice
+219.05.005;Čelákovice
+219.05.006;Čelákovice
+219.06.001;Říčany
+219.06.002;Říčany
+219.06.003;Říčany
+219.06.004;Říčany
+219.06.005;Říčany
+219.06.006;Říčany
+219.08.006;Úvaly
+219.08.013;Úvaly
+219.08.024;Úvaly
+219.08.430;Úvaly
+219.09.002;Stará Boleslav
+219.09.003;Stará Boleslav
+219.09.004;Stará Boleslav
+219.09.006;Stará Boleslav
+219.09.431;Stará Boleslav
+219.10.001;Brandýs nad Labem
+219.10.003;Brandýs nad Labem
+219.10.004;Brandýs nad Labem
+219.11.001-1;Zápy
+219.11.001-2;Zápy
+219.11.001-3;Zápy
+21A.01.011;Mníšek pod Brdy
+21A.01.012;Mníšek pod Brdy
+21A.01.014;Mníšek pod Brdy
+21A.01.017;Mníšek pod Brdy
+21A.02.021;Dobřichovice
+21A.02.022;Řevnice
+21A.02.023;Dobřichovice
+21A.02.025;Řevnice
+21A.02.028;Dobřichovice
+21A.02.029;Hostivice
+21A.06.013;Vrané nad Vltavou
+21A.06.033;Vrané nad Vltavou
+21A.06.035;Vrané nad Vltavou
+21A.06.037;Vrané nad Vltavou
+21A.06.039;Ohrobec
+21A.07.005;Všenory
+21A.08.081;Zbraslav
+21A.08.082;Zbraslav
+21A.08.083;Zbraslav
+21A.08.084;Zbraslav
+21A.08.086;Zbraslav
+21A.08.087;Zbraslav
+21A.08.088;Zbraslav
+21A.08.089;Zbraslav
+21A.13.131;Černošice
+21A.13.133;Černošice
+21A.13.135;Černošice
+21A.13.138;Černošice
+21B.01.001;Příbram
+21B.01.002;Příbram
+21B.01.008;Višňová
+21B.01.010;Příbram
+21B.01.011;Příbram
+21B.02.001;Slivice
+21B.02.006;Příbram
+21B.02.014;Příbram
+21B.04.401;Rožmitál pod Třemšínem
+21B.04.402;Rožmitál pod Třemšínem
+21B.07.005;Kosova Hora
+21B.07.006;Kosova Hora
+21B.08.001;Dobříš
+21B.08.002;Dobříš
+21B.08.003;Dobříš
+21B.08.006;Nový Knín
+310.31.001-1;Jindřichův Hradec
+310.31.003-2;Jindřichův Hradec
+310.31.004-1;Jindřichův Hradec
+310.31.005-2;Jindřichův Hradec
+310.31.006;Jindřichův Hradec
+310.31.007-2;Jindřichův Hradec
+310.31.009-1;Jindřichův Hradec
+310.32.001-1;Třeboň
+310.32.001-2;Třeboň
+310.32.002-1;Třeboň
+310.32.002-2;Třeboň
+310.32.003;Třeboň
+310.41.002-2;Písek
+310.41.012-2;Písek
+310.41.012-3;Písek
+311.01.012;Prachatice
+311.01.022;Prachatice
+311.01.617;Prachatice
+311.02.002;Lenora
+311.02.005;Vimperk
+311.03.001;České Budějovice
+311.03.003;České Budějovice
+311.03.010;České Budějovice
+311.03.013;České Budějovice
+311.03.017;České Budějovice
+311.03.018;České Budějovice
+311.03.020;České Budějovice
+311.03.027;České Budějovice
+311.03.109;České Budějovice
+311.04.002;České Budějovice
+311.04.004;České Budějovice
+311.04.005;České Budějovice
+311.04.008;České Budějovice
+311.04.011;České Budějovice
+311.04.012;České Budějovice
+311.04.015;České Budějovice
+311.04.016;České Budějovice
+311.04.022;České Budějovice
+311.04.023;České Budějovice
+311.07.001;Týn nad Vltavou
+311.07.002;Týn nad Vltavou
+311.07.003;Týn nad Vltavou
+311.07.004;Týn nad Vltavou
+311.13.004;Kaplice
+311.13.603;Kaplice
+312.06.002;Holubov
+312.06.003;Holubov
+312.06.004;Křemže
+312.06.005;Nové Hrady
+312.06.006;Hořice na Šumavě
+312.06.007;Český Krumlov
+313.03.001;Dačice
+313.04.001;Slavonice
+313.04.003;Slavonice
+313.04.004;Slavonice
+313.08.003;Lomnice nad Lužnicí
+313.08.004;Lomnice nad Lužnicí
+313.08.008;Lomnice nad Lužnicí
+313.13.001;Nová Včelnice
+313.13.006;Kamenice nad Lipou
+313.13.007;Kamenice nad Lipou
+313.13.009;Kamenice nad Lipou
+314.01.001-1;Písek
+314.01.002-1;Písek
+314.01.002-2;Písek
+314.01.005-1;Písek
+314.01.008;Písek
+314.02.002;Písek
+314.02.007;Písek
+314.02.012;Písek
+314.03.001;Čimelice
+314.03.002;Písek
+314.03.003;Písek
+314.07.001;Milevsko
+314.07.002;Milevsko
+314.07.003;Milevsko
+314.07.099;Milevsko
+314.08.001;Protivín
+314.08.002;Protivín
+314.08.003;Protivín
+316.01.103;Strakonice
+316.01.203;Strakonice
+316.01.204;Strakonice
+316.01.206;Strakonice
+316.01.301;Strakonice
+316.01.303;Strakonice
+316.02.001;Volyně
+316.02.002;Volyně
+316.02.003;Volyně
+316.02.004;Malenice
+316.02.005;Volyně
+316.02.006;Volyně
+316.04.001;Vodňany
+316.04.002;Vodňany
+317.01.003;Tábor
+317.01.005;Tábor
+317.01.006-1;Tábor
+317.01.006-2;Tábor
+317.01.007;Tábor
+317.01.009;Tábor
+317.01.011;Tábor
+317.01.013;Tábor
+317.01.082;Tábor
+317.01.139;Tábor
+317.03.001;Sezimovo Ústí
+317.03.003;Sezimovo Ústí
+317.03.004;Sezimovo Ústí
+317.04.003;Bechyně
+317.04.141;Bechyně
+317.05.001;Veselí nad Lužnicí
+317.05.003;Veselí nad Lužnicí
+317.05.005;Veselí nad Lužnicí
+317.05.007;Veselí nad Lužnicí
+317.07.001;Borotín
+317.07.002;Borotín
+317.07.449;Borotín
+317.09.001;Planá nad Lužnicí
+317.09.002;Planá nad Lužnicí
+317.09.004;Planá nad Lužnicí
+317.09.005;Beroun
+317.13.113;Opařany
+317.13.213;Opařany
+317.13.613;Jistebnice
+317.13.713;Opařany
+317.13.913;Opařany
+317.13.999;Sepekov
+321.01.001;Domažlice
+321.01.002;Domažlice
+321.01.004;Domažlice
+321.01.006;Domažlice
+321.03.001;Holýšov
+321.03.004;Staňkov
+321.05.001;Prapořiště
+321.05.002;Prapořiště
+321.05.003;Prapořiště
+321.07.001;Tachov
+321.07.003;Tachov
+321.07.006;Černošín
+321.07.534;Tachov
+322.01.201;Klatovy
+322.01.204;Klatovy
+322.01.211;Janovice nad Úhlavou
+322.01.217;Klatovy
+322.01.221;Švihov
+322.01.361;Klatovy
+322.02.201;Horažďovice
+322.02.202;Horažďovice
+322.02.203-1;Horažďovice
+322.02.203-2;Horažďovice
+322.02.204;Horažďovice
+322.03.001;Sušice
+322.03.002;Sušice
+322.03.003;Sušice
+322.03.004;Sušice
+322.03.005;Sušice
+322.03.009;Sušice
+322.03.101;Kašperské Hory
+322.03.102;Hartmanice
+322.03.103;Hlavňovice
+322.04.001;Pačejov
+322.04.002;Pačejov
+322.04.003;Pačejov
+322.05.001;Klatovy
+322.05.004;Klatovy
+322.05.008;Klatovy
+322.05.102;Klatovy
+323.01.010;Plzeň
+323.01.011;Plzeň
+323.01.012;Plzeň
+323.01.013;Plzeň
+323.01.015;Plzeň
+323.01.017;Plzeň
+323.01.018;Plzeň
+323.02.021;Štěnovice
+323.02.023;Plzeň
+323.02.027;Plzeň
+323.02.028;Plzeň
+323.02.029;Plzeň
+323.03.030;Plzeň
+323.03.031;Plzeň
+323.03.033;Plzeň
+323.03.034;Plzeň
+323.03.036;Plzeň
+323.03.038;Plzeň
+323.03.039;Plzeň
+323.04.040;Plzeň
+323.04.042;Plzeň
+323.04.043;Plzeň
+323.04.044;Manětín
+323.04.045;Plzeň
+323.05.003;Plzeň
+323.05.051;Plzeň
+323.05.052-1;Plzeň
+323.05.052-9;Plzeň
+323.05.053-1;Plzeň
+323.05.053-3;Plzeň
+323.05.053-9;Plzeň
+323.05.054-3;Plzeň
+323.05.054-4;Plzeň
+323.05.057;Plzeň
+323.05.058;Starý Plzenec
+323.06.001;Tlučná
+323.06.002;Tlučná
+323.06.003;Tlučná
+323.07.070;Plzeň
+323.07.072;Plzeň
+323.07.074;Plzeň
+323.08.001;Kralovice
+323.08.002;Kralovice
+323.08.003;Horní Bříza
+323.09.050;Plzeň
+323.09.091;Plzeň
+323.09.092;Plzeň
+323.09.093;Plzeň
+323.09.099;Plzeň
+324.02.001;Přeštice
+324.02.003;Přeštice
+324.02.004;Přeštice
+324.02.007;Přeštice
+324.03.001;Dnešice
+324.03.002;Dnešice
+324.03.003;Dnešice
+324.04.001;Příchovice
+324.04.002;Příchovice
+324.04.003;Příchovice
+324.04.004;Příchovice
+324.04.005;Příchovice
+324.04.006;Příchovice
+324.05.002;Dobřany
+324.05.004;Dobřany
+324.05.006;Dobřany
+324.05.007;Dobřany
+324.07.001;Spálené Poříčí
+324.07.002;Spálené Poříčí
+324.07.003;Spálené Poříčí
+326.01.003;Rokycany
+326.01.005;Rokycany
+326.01.055;Rokycany
+326.01.068;Rokycany
+326.03.002;Radnice
+326.03.003;Radnice
+326.03.005;Radnice
+326.03.006;Radnice
+326.09.001;Zbiroh
+326.09.003;Zbiroh
+326.09.005;Zbiroh
+411.01.001-1;Cheb
+411.01.001-2;Cheb
+411.01.001-3;Cheb
+411.03.001;Cheb
+411.03.005;Cheb
+411.03.370;Cheb
+411.04.001;Aš
+411.04.002;Aš
+411.04.371;Aš
+411.06.003;Mariánské Lázně
+411.06.005;Velká Hleďsebe
+411.06.373;Mariánské Lázně
+411.07.001;Luby
+411.07.002;Luby
+411.07.003;Luby
+412.04.001;Jáchymov
+412.04.003;Jáchymov
+412.05.051;Nejdek
+412.05.052;Nejdek
+412.05.053;Nejdek
+412.11.004;Karlovy Vary
+412.11.011;Karlovy Vary
+412.11.012;Karlovy Vary
+412.11.015;Karlovy Vary
+412.11.074;Karlovy Vary
+413.04.015;Chodov
+413.04.115;Chodov
+413.04.215;Chodov
+413.05.004;Kynšperk nad Ohří
+413.05.352;Kynšperk nad Ohří
+413.07.001-1;Habartov
+413.07.001-3;Habartov
+413.07.001-5;Habartov
+413.07.001-6;Habartov
+413.07.001-7;Habartov
+413.07.001-8;Habartov
+413.07.274;Habartov
+413.09.002;Horní Slavkov
+413.09.006;Horní Slavkov
+413.09.007;Horní Slavkov
+413.10.001;Loket
+413.10.003;Loket
+413.10.004;Loket
+413.10.372;Františkovy Lázně
+421.01.001;Děčín
+421.01.003;Děčín
+421.01.217;Děčín
+421.02.001;Varnsdorf
+421.02.004;Varnsdorf
+421.02.007;Varnsdorf
+421.03.001;Rumburk
+421.03.002;Rumburk
+421.03.003;Rumburk
+421.04.002;Děčín
+421.04.004;Děčín
+421.04.044;Děčín
+421.04.444;Děčín
+421.08.001;Šluknov
+421.08.002;Šluknov
+422.01.001;Chomutov
+422.01.003;Chomutov
+422.01.005;Chomutov
+422.01.009;Chomutov
+422.01.011;Chomutov
+422.03.001;Klášterec nad Ohří
+422.03.005;Klášterec nad Ohří
+422.04.003;Jirkov
+422.04.005;Jirkov
+422.04.013;Jirkov
+422.05.001;Kadaň
+422.05.002;Kadaň
+422.05.005;Kadaň
+422.06.001-1;Žatec
+422.06.001-4;Žatec
+422.06.003;Žatec
+423.01.003;Terezín
+423.01.004;Terezín
+423.01.208;Terezín
+423.02.001-1;Roudnice nad Labem
+423.02.001-2;Roudnice nad Labem
+423.02.001-3;Roudnice nad Labem
+423.02.001-5;Roudnice nad Labem
+423.02.003-4;Roudnice nad Labem
+423.02.209;Roudnice nad Labem
+423.03.002;Lovosice
+423.03.005;Lovosice
+423.03.226;Lovosice
+423.04.001;Libochovice
+423.04.003;Libochovice
+423.05.001;Štětí
+423.05.004;Štětí
+423.06.002;Litoměřice
+423.06.005;Blíževedly
+423.06.011;Litoměřice
+423.06.021;Litoměřice
+423.06.022;Litoměřice
+423.06.051;Litoměřice
+423.06.201;Litoměřice
+425.01.001-1;Most
+425.01.001-2;Most
+425.01.006;Most
+425.01.008;Most
+425.01.009;Most
+425.02.001;Litvínov
+425.02.002;Litvínov
+425.02.003;Litvínov
+425.02.004;Litvínov
+425.03.001;Louny
+425.03.005;Louny
+425.03.006;Louny
+426.01.001;Teplice
+426.01.003;Teplice
+426.01.004;Teplice
+426.01.006;Teplice
+426.02.021;Teplice
+426.02.022;Teplice
+426.02.023;Teplice
+426.02.024;Teplice
+426.02.025;Teplice
+426.02.026;Teplice
+426.02.027;Teplice
+427.01.001;Ústí nad Labem
+427.01.002;Ústí nad Labem
+427.01.003;Ústí nad Labem
+427.01.004;Ústí nad Labem
+427.01.005;Ústí nad Labem
+427.02.021;Ústí nad Labem
+427.02.022;Ústí nad Labem
+427.02.023;Ústí nad Labem
+427.02.024;Ústí nad Labem
+427.02.025;Ústí nad Labem
+511.01.001;Česká Lípa
+511.01.002;Česká Lípa
+511.01.004;Česká Lípa
+511.01.006;Česká Lípa
+511.01.151;Česká Lípa
+511.02.001;Nový Bor
+511.02.002;Nový Bor
+511.02.004;Nový Bor
+511.02.006;Nový Bor
+511.02.011;Zákupy
+511.02.012;Zákupy
+511.04.001;Doksy
+511.04.002;Doksy
+511.04.003;Doksy
+511.04.005;Doksy
+511.04.569;Doksy
+511.05.001;Mimoň
+511.05.002;Mimoň
+511.05.003;Mimoň
+511.05.005;Mimoň
+511.05.006;Mimoň
+512.01.001;Jablonec nad Nisou
+512.01.002-1;Jablonec nad Nisou
+512.01.002-2;Jablonec nad Nisou
+512.01.003;Jablonec nad Nisou
+512.01.004-1;Jablonec nad Nisou
+512.01.004-2;Jablonec nad Nisou
+512.01.005;Jablonec nad Nisou
+512.01.006;Jablonec nad Nisou
+512.01.091;Jablonec nad Nisou
+513.01.002;Liberec
+513.01.003;Liberec
+513.01.004;Liberec
+513.01.005;Liberec
+513.01.007;Liberec
+513.01.011;Liberec
+513.04.008;Liberec
+513.04.019;Hejnice
+513.04.020;Liberec
+513.04.021;Liberec
+513.04.022;Liberec
+513.04.023;Liberec
+513.05.012;Liberec
+513.05.013;Liberec
+513.05.026;Liberec
+513.05.027;Liberec
+513.05.028;Liberec
+513.07.030;Liberec
+513.07.030-1;Liberec
+513.07.030-2;Liberec
+513.07.033;Liberec
+513.09.004;Liberec
+513.09.015;Liberec
+513.09.035;Liberec
+513.10.010-1;Liberec
+513.10.010-2;Liberec
+513.10.010-4;Liberec
+513.10.010-7;Liberec
+513.12.001;Hrádek nad Nisou
+513.12.002;Hrádek nad Nisou
+513.15.002;Český Dub
+513.15.004;Hodkovice nad Mohelkou
+513.15.005;Český Dub
+514.01.001;Semily
+514.01.002;Semily
+514.01.003;Semily
+514.01.004;Semily
+514.01.005;Semily
+514.01.006;Semily
+514.01.008;Lomnice nad Popelkou
+514.01.296;Semily
+514.02.001-1;Turnov
+514.02.001-2;Turnov
+514.02.002-1;Turnov
+514.02.002-2;Turnov
+514.02.003-1;Turnov
+514.02.003-2;Turnov
+514.02.004-1;Turnov
+514.02.033;Turnov
+514.03.001;Studenec
+514.03.002;Jilemnice
+514.03.003;Jilemnice
+514.03.004;Jilemnice
+514.03.006;Jilemnice
+514.03.008;Jilemnice
+514.03.144;Jilemnice
+514.03.624;Rokytnice nad Jizerou
+514.06.011;Železný Brod
+514.06.034;Železný Brod
+514.06.035;Železný Brod
+514.06.036;Železný Brod
+514.07.001;Tatobity
+514.07.004;Tatobity
+514.07.005;Tatobity
+514.07.398;Tatobity
+514.11.040;Jilemnice
+514.11.605;Jilemnice
+521.01.001;Třebechovice pod Orebem
+521.01.002;Třebechovice pod Orebem
+521.01.003;Třebechovice pod Orebem
+521.01.004;Třebechovice pod Orebem
+521.01.006;Třebechovice pod Orebem
+521.01.007;Třebechovice pod Orebem
+521.02.001;Stěžery
+521.02.002;Stěžery
+521.03.001;Chlumec nad Cidlinou
+521.03.002;Chlumec nad Cidlinou
+521.03.004;Chlumec nad Cidlinou
+521.03.005;Chlumec nad Cidlinou
+521.03.006;Chlumec nad Cidlinou
+521.03.007;Chlumec nad Cidlinou
+522.01.001-1;Jičín
+522.01.001-2;Jičín
+522.01.001-3;Jičín
+522.01.001-4;Jičín
+522.01.002-1;Jičín
+522.01.007;Jičín
+522.01.009;Jičín
+522.02.001;Hořice v Podkrkonoší
+522.02.002;Hořice v Podkrkonoší
+522.02.003-1;Hořice v Podkrkonoší
+522.02.004;Hořice v Podkrkonoší
+522.03.001;Nová Paka
+522.03.002;Nová Paka
+522.03.003;Nová Paka
+522.04.001;Miletín
+522.04.002;Miletín
+522.04.003;Miletín
+522.05.001;Lázně Bělohrad
+522.05.002;Lázně Bělohrad
+522.05.009;Lázně Bělohrad
+523.01.011;Náchod
+523.01.025;Náchod
+523.01.031;Náchod
+523.01.041;Náchod
+523.01.042;Náchod
+523.01.052;Náchod
+523.01.065;Hronov
+523.01.076;Náchod
+523.04.001-1;Police nad Metují
+523.04.001-2;Police nad Metují
+523.04.001-3;Police nad Metují
+523.04.001-4;Police nad Metují
+523.06.001-1;Broumov
+523.06.001-2;Broumov
+523.07.001;Červený Kostelec
+523.07.002-1;Červený Kostelec
+523.07.002-2;Červený Kostelec
+523.07.004-1;Červený Kostelec
+523.07.004-2;Červený Kostelec
+523.07.005;Červený Kostelec
+523.07.006;Červený Kostelec
+523.07.234;Červený Kostelec
+523.09.001-2;Česká Skalice
+523.09.001-4;Česká Skalice
+523.09.109;Česká Skalice
+523.10.001;Nové Město nad Metují
+523.10.002;Nové Město nad Metují
+523.10.003;Nové Město nad Metují
+523.10.004;Nové Město nad Metují
+523.10.006;Šonov
+523.10.231;Nové Město nad Metují
+523.11.001;Jaroměř
+523.11.002;Jaroměř
+523.11.004;Jaroměř
+523.11.005;Jaroměř
+523.11.235;Jaroměř
+524.01.001;Rychnov nad Kněžnou
+524.01.004;Rychnov nad Kněžnou
+524.01.006;Rychnov nad Kněžnou
+524.01.008;Rychnov nad Kněžnou
+524.03.001-2;Kostelec nad Orlicí
+524.03.001-3;Kostelec nad Orlicí
+524.03.001-4;Kostelec nad Orlicí
+524.03.001-6;Kostelec nad Orlicí
+524.03.002;Kostelec nad Orlicí
+524.06.001-1;Opočno
+524.06.001-4;Opočno
+524.07.003;Dobruška
+524.07.004;Dobruška
+524.07.006;Dobruška
+524.07.008;Dobruška
+524.09.001;Vamberk
+524.09.002;Vamberk
+524.09.003;Vamberk
+524.09.004;Vamberk
+524.09.005;Skuhrov nad Bělou
+525.01.001;Trutnov
+525.01.003;Trutnov
+525.01.005;Trutnov
+525.01.007;Trutnov
+525.01.013;Trutnov
+525.02.001-2;Dvůr Králové nad Labem
+525.02.002;Mostek
+525.02.003;Dvůr Králové nad Labem
+525.02.004;Dvůr Králové nad Labem
+525.02.005;Dvůr Králové nad Labem
+525.02.006;Dvůr Králové nad Labem
+525.02.007;Dvůr Králové nad Labem
+525.03.001;Rtyně v Podkrkonoší
+525.03.003;Havlovice
+525.03.004;Rtyně v Podkrkonoší
+525.03.005;Rtyně v Podkrkonoší
+525.04.001;Hostinné
+525.04.002;Hostinné
+525.04.003;Vrchlabí
+525.04.004;Dolní Kalná
+525.04.006;Hostinné
+525.04.007;Dolní Lánov
+525.04.008;Hostinné
+525.04.009;Hostinné
+525.05.002;Vrchlabí
+525.05.003;Vrchlabí
+525.05.005;Vrchlabí
+525.06.001-6;Úpice
+525.06.001-7;Úpice
+525.06.001-8;Úpice
+525.07.001-1;Svoboda nad Úpou
+525.07.001-2;Svoboda nad Úpou
+526.01.001;Hradec Králové
+526.01.003;Hradec Králové
+526.01.004;Hradec Králové
+526.01.007;Hradec Králové
+526.01.008;Hradec Králové
+526.01.018-2;Hradec Králové
+526.01.019;Hradec Králové
+526.01.900;Hradec Králové
+526.02.002-4;Hradec Králové
+526.02.009;Hradec Králové
+526.02.011;Hradec Králové
+526.02.013;Hradec Králové
+526.04.001;Hradec Králové
+526.04.003-1;Hradec Králové
+526.04.003-2;Hradec Králové
+526.04.004;Hradec Králové
+526.04.005;Hradec Králové
+526.04.007;Hradec Králové
+526.04.010;Hradec Králové
+526.05.017;Lochenice
+526.05.020;Hradec Králové
+526.05.033;Hradec Králové
+526.06.004;Hradec Králové
+526.06.006;Hradec Králové
+526.06.024;Hradec Králové
+526.07.005;Hradec Králové
+526.07.006;Hradec Králové
+526.07.007;Hradec Králové
+531.01.001;Chrudim
+531.01.002;Chrudim
+531.01.004;Chrudim
+531.02.001;Slatiňany
+531.02.002;Slatiňany
+531.02.003;Slatiňany
+531.02.004;Slatiňany
+531.02.005;Slatiňany
+531.02.006;Slatiňany
+531.02.007;Slatiňany
+531.02.008;Slatiňany
+531.02.009;Slatiňany
+531.02.181;Slatiňany
+531.03.001;Hlinsko
+531.03.002;Hlinsko
+531.03.003;Hlinsko
+531.03.005;Hlinsko
+531.04.001;Skuteč
+531.04.002-1;Skuteč
+531.04.002-2;Skuteč
+531.04.003;Skuteč
+531.04.182;Skuteč
+531.04.183;Skuteč
+531.06.002;Chrast u Chrudimi
+531.06.004;Chrast u Chrudimi
+531.06.007;Chrast u Chrudimi
+531.07.001;Nasavrky
+531.07.002;Nasavrky
+531.07.003;Nasavrky
+531.07.004;Nasavrky
+531.08.001;Heřmanův Městec
+531.08.002;Heřmanův Městec
+531.08.004;Heřmanův Městec
+531.08.246;Heřmanův Městec
+531.10.001;Proseč
+531.10.002;Proseč
+531.10.003;Proseč
+531.10.004;Proseč
+531.10.005;Proseč
+531.11.001;Luže
+531.11.003;Luže
+531.11.004;Luže
+531.11.006;Luže
+531.13.006;Kameničky
+531.13.007;Kameničky
+531.13.009;Kameničky
+532.03.001;Lázně Bohdaneč
+532.03.003;Lázně Bohdaneč
+532.03.012;Lázně Bohdaneč
+532.03.030;Lázně Bohdaneč
+532.04.003;Chvaletice
+532.04.006;Chvaletice
+532.04.008;Chvaletice
+532.05.001;Holice
+532.05.003;Holice
+532.05.007;Holice
+532.06.004;Pardubice
+532.06.005;Pardubice
+532.06.008;Pardubice
+532.06.010;Pardubice
+532.07.007;Pardubice
+532.07.012;Pardubice
+532.07.013;Pardubice
+532.07.017;Pardubice
+532.08.001;Přelouč
+532.08.002;Přelouč
+532.08.004;Přelouč
+532.08.006;Přelouč
+532.08.007;Přelouč
+532.08.008;Přelouč
+532.10.002;Pardubice
+532.10.006;Pardubice
+532.10.007;Pardubice
+532.10.022;Pardubice
+532.11.001;Sezemice
+532.11.002;Sezemice
+532.11.004;Sezemice
+532.12.001-1;Pardubice
+532.12.001-2;Pardubice
+532.12.001-3;Pardubice
+532.12.001-4;Pardubice
+532.12.004;Pardubice
+532.12.006;Pardubice
+532.12.014;Pardubice
+532.12.021;Pardubice
+532.12.042;Pardubice
+533.01.100;Svitavy
+533.01.501;Svitavy
+533.01.701;Svitavy
+533.02.003;Litomyšl
+533.02.004;Litomyšl
+533.02.009;Litomyšl
+533.02.013;Litomyšl
+533.03.001-1;Polička
+533.03.001-2;Polička
+533.03.308;Polička
+533.04.001;Moravská Třebová
+533.04.002;Moravská Třebová
+533.04.003;Moravská Třebová
+533.04.004;Moravská Třebová
+533.04.006;Moravská Třebová
+533.04.009;Moravská Třebová
+533.07.001-1;Dolní Újezd
+533.07.001-2;Dolní Újezd
+533.07.001-3;Dolní Újezd
+533.07.001-4;Dolní Újezd
+533.07.001-5;Dolní Újezd
+534.01.011;Ústí nad Orlicí
+534.01.012;Ústí nad Orlicí
+534.01.013;Ústí nad Orlicí
+534.01.169;Ústí nad Orlicí
+534.03.003;Česká Třebová
+534.03.004;Česká Třebová
+534.03.005;Česká Třebová
+534.03.007;Česká Třebová
+534.03.008;Česká Třebová
+534.03.009;Česká Třebová
+534.03.033;Česká Třebová
+534.03.161;Česká Třebová
+534.04.001-1;Choceň
+534.04.002-1;Choceň
+534.04.003-1;Choceň
+534.04.004-1;Choceň
+534.05.001;Vysoké Mýto
+534.05.002;Vysoké Mýto
+534.05.005;Vysoké Mýto
+534.05.008;Vysoké Mýto
+534.05.014;Vysoké Mýto
+534.06.030;Lanškroun
+534.06.031;Lanškroun
+534.06.033;Lanškroun
+534.06.037;Lanškroun
+534.06.061;Lanškroun
+534.06.063;Lanškroun
+534.06.166;Lanškroun
+534.07.039;Žamberk
+534.07.071;Žamberk
+534.07.701;Žamberk
+534.08.015;Letohrad
+534.08.168;Letohrad
+534.08.801;Letohrad
+534.08.802;Letohrad
+534.08.803;Verměřovice
+534.08.805;Mistrovice
+534.08.806;Dolní Čermná
+534.08.812;Letohrad
+534.08.813;Letohrad
+534.08.841;Letohrad
+534.09.001;Jablonné nad Orlicí
+534.09.002;Bystřec
+534.09.003;Jablonné nad Orlicí
+534.11.111;Brandýs nad Orlicí
+534.11.114;Brandýs nad Orlicí
+534.11.116;Brandýs nad Orlicí
+534.12.001;Dolní Dobrouč
+534.12.003;Dolní Dobrouč
+534.12.006;Dolní Dobrouč
+534.15.002-1;Králíky
+534.15.003-1;Králíky
+534.15.007-1;Červená Voda
+610.23.004;Chotěboř
+610.23.006;Chotěboř
+610.23.012;Chotěboř
+610.23.023;Chotěboř
+610.23.024;Chotěboř
+611.01.001;Havlíčkův Brod
+611.01.003-1;Havlíčkův Brod
+611.01.005;Havlíčkův Brod
+611.01.008;Havlíčkův Brod
+611.01.015;Havlíčkův Brod
+611.04.001;Ledeč nad Sázavou
+611.04.002;Ledeč nad Sázavou
+611.04.003;Ledeč nad Sázavou
+611.04.037;Ledeč nad Sázavou
+611.05.001;Přibyslav
+611.05.002;Přibyslav
+611.05.003;Přibyslav
+611.05.004;Přibyslav
+611.05.009;Přibyslav
+611.05.010;Přibyslav
+611.10.001;Havlíčkův Brod
+611.10.002;Havlíčkův Brod
+611.10.003;Šlapanov
+611.10.004;Havlíčkův Brod
+611.10.007;Havlíčkův Brod
+611.10.010;Golčův Jeníkov
+611.10.011;Štoky
+611.10.020;Světlá nad Sázavou
+611.10.025;Havlíčkův Brod
+612.01.001;Jihlava
+612.01.007-3;Jihlava
+612.01.007-5;Jihlava
+612.01.216-1;Jihlava
+612.02.001-1;Batelov
+612.02.002-2;Batelov
+612.02.395-3;Batelov
+612.04.001-1;Jihlava
+612.04.002-2;Jihlava
+612.04.003-3;Jihlava
+612.04.004-4;Jihlava
+612.04.005-5;Jihlava
+613.03.001;Humpolec
+613.03.002;Humpolec
+613.03.495;Humpolec
+613.04.005;Počátky
+613.04.006;Počátky
+613.04.498;Počátky
+613.05.101-1;Pelhřimov
+613.05.201-1;Pelhřimov
+613.05.499;Pelhřimov
+614.01.001-1;Třebíč
+614.01.001-2;Třebíč
+614.01.001-6;Třebíč
+614.01.002-1;Třebíč
+614.01.002-2;Třebíč
+614.01.002-3;Třebíč
+614.01.002-4;Třebíč
+614.01.003-2;Třebíč
+614.01.007-3;Třebíč
+614.01.007-4;Třebíč
+614.01.041-6;Třebíč
+614.03.001-1;Luka nad Jihlavou
+614.03.002-2;Luka nad Jihlavou
+614.03.003-3;Luka nad Jihlavou
+614.03.007-4;Jihlava
+614.04.001;Moravské Budějovice
+614.04.004;Moravské Budějovice
+614.04.005;Moravské Budějovice
+614.04.006;Moravské Budějovice
+614.04.007;Moravské Budějovice
+614.04.008;Moravské Budějovice
+614.04.011;Moravské Budějovice
+614.05.001;Jemnice
+614.05.002;Jemnice
+614.05.003;Jemnice
+614.05.004;Jemnice
+614.05.005;Jemnice
+614.05.006;Jemnice
+614.06.001;Budišov
+614.06.002;Budišov
+614.06.004;Budišov
+614.07.001;Velké Meziříčí
+614.07.002;Velké Meziříčí
+614.07.012;Velké Meziříčí
+614.10.001;Třebíč
+614.10.004;Třebíč
+614.10.005;Třebíč
+614.10.006;Třebíč
+614.10.069;Třebíč
+614.10.133;Třebíč
+615.02.001;Nové Město na Moravě
+615.02.002;Nové Město na Moravě
+615.02.003;Nové Město na Moravě
+615.02.004;Nové Město na Moravě
+615.02.005;Nové Město na Moravě
+615.03.001;Bystřice nad Pernštejnem
+615.03.002;Bystřice nad Pernštejnem
+615.03.004;Bystřice nad Pernštejnem
+615.03.005;Bystřice nad Pernštejnem
+615.03.006;Bystřice nad Pernštejnem
+615.04.005;Žďár nad Sázavou
+615.04.006;Žďár nad Sázavou
+615.04.008;Žďár nad Sázavou
+615.04.009;Ostrov nad Oslavou
+615.04.044;Žďár nad Sázavou
+615.05.001-1;Svratka
+615.05.001-2;Svratka
+615.05.001-3;Svratka
+615.06.001;Polná
+615.06.004;Polná
+615.06.006;Polná
+615.06.007;Polná
+621.01.002;Blansko
+621.01.003;Blansko
+621.01.004;Blansko
+621.01.005;Blansko
+621.01.008;Klepačov
+621.01.009;Blansko
+621.02.001;Rájec-Jestřebí
+621.02.002;Rájec-Jestřebí
+621.02.003;Rájec-Jestřebí
+621.03.001;Boskovice
+621.03.002;Šebetov
+621.03.005;Ludíkov
+621.03.006;Boskovice
+621.03.008;Boskovice
+621.03.009;Boskovice
+621.03.010;Boskovice
+621.03.011;Boskovice
+621.04.001;Letovice
+621.04.002;Letovice
+621.04.004;Letovice
+621.04.005;Letovice
+621.05.003;Jedovnice
+621.05.004;Jedovnice
+621.05.005;Vilémovice
+621.05.006;Jedovnice
+621.05.007;Senetářov
+621.05.009;Lipovec
+621.07.001;Vysočany
+621.07.006;Blansko
+621.07.007;Šebrov-Kateřina
+621.07.010;Blansko
+621.07.011;Blansko
+621.07.012;Blansko
+621.07.013;Blansko
+621.07.014;Sloup
+622.01.001;Brno
+622.01.004;Brno
+622.01.041;Brno
+622.01.091-1;Brno
+622.01.093;Brno-jih
+622.01.095;Modřice
+622.02.002-1;Brno
+622.02.002-2;Brno
+622.02.002-4;Brno
+622.02.009;Brno-sever
+622.02.069;Brno
+622.06.001;Čebín
+622.06.001-2;Hostěnice
+622.06.018-3;Brno
+622.06.021-4;Brno
+622.06.023-4;Brno
+622.08.028-1;Brno
+622.08.028-2;Brno
+622.08.028-3;Brno
+622.08.028-4;Brno
+622.08.028-5;Brno
+622.08.028-6;Brno
+622.09.026;Brno
+622.09.072;Brno
+622.09.072-1;Brno-západ
+622.09.091;Brno
+622.10.010;Brno-východ
+622.10.030;Brno-východ
+622.10.094;Brno
+622.12.003-1;Brno
+622.12.004-1;Brno
+622.12.012-1;Brno
+622.12.097-1;Brno
+622.13.001;Brno-střed
+622.13.002;Brno-střed
+622.13.005;Brno
+622.13.034;Brno-západ
+622.15.015-1;Brno
+622.15.015-2;Brno
+622.15.015-3;Brno
+622.15.017;Brno-sever
+622.16.001;Moravské Knínice
+622.16.009;Brno-sever
+622.16.016;Brno-sever
+622.16.046-1;Brno-sever
+622.16.046-2;Brno-sever
+622.16.090;Brno-sever
+622.22.048;Brno-střed
+622.22.054-1;Brno-střed
+622.22.054-2;Brno
+622.24.035-1;Brno-západ
+622.24.035-2;Brno-západ
+622.24.035-3;Brno-západ
+622.24.035-8;Brno-západ
+622.24.036-1;Brno-západ
+622.24.037;Brno-západ
+622.25.001;Brno
+622.25.001-1;Bílovice nad Svitavou
+622.25.088-1;Brno
+622.25.088-4;Brno-střed
+622.25.089;Brno
+622.26.007;Brno
+622.26.017;Brno
+622.26.040;Brno
+622.26.062;Brno
+622.26.077;Brno
+622.27.065-1;Brno-jih
+622.27.065-2;Brno-jih
+622.27.065-3;Brno-jih
+622.28.001;Lelekovice
+622.28.014-1;Brno-východ
+622.28.014-4;Brno-východ
+622.28.014-5;Brno-východ
+622.28.043;Brno-jih
+622.28.070;Brno-střed
+622.28.070-1;Brno-střed
+622.28.070-3;Brno-střed
+622.28.100;Brno
+623.01.001;Oslavany
+623.01.002;Oslavany
+623.01.004;Oslavany
+623.04.001-1;Ivančice
+623.04.001-2;Ivančice
+623.04.001-3;Ivančice
+623.11.002-1;Střelice
+623.11.002-2;Střelice
+623.11.002-3;Střelice
+623.14.001;Újezd u Brna
+623.14.003;Újezd u Brna
+623.14.004;Želešice
+623.15.001;Doubravník
+623.15.002;Tišnov
+623.15.003;Tišnov
+623.15.004;Tišnov
+623.15.005;Tišnov
+623.15.006;Tišnov
+623.16.001;Kuřim
+623.16.002;Kuřim
+623.16.004;Kuřim
+623.16.006;Kuřim
+623.16.007;Kuřim
+623.16.008;Kuřim
+623.17.001-2;Veverská Bítýška
+623.17.001-3;Veverská Bítýška
+623.17.503;Veverská Bítýška
+623.18.001;Křtiny
+623.18.002;Křtiny
+623.18.003;Křtiny
+623.18.004;Křtiny
+623.18.006;Křtiny
+623.21.001-1;Pozořice
+623.21.001-2;Pozořice
+623.21.001-4;Pozořice
+623.21.001-8;Tvarožná
+623.21.002-1;Mokrá-Horákov
+623.21.002-2;Rousínov
+623.21.002-3;Tvarožná
+623.21.003-8;Ochoz u Brna
+623.21.003-9;Ochoz u Brna
+623.25.001;Židlochovice
+623.25.002;Židlochovice
+623.25.003;Židlochovice
+623.25.005;Blučina
+623.26.001-1;Domašov
+623.26.001-2;Domašov
+623.26.005;Rajhrad
+623.26.007;Zbýšov
+623.30.001;Šlapanice
+623.30.002;Šlapanice
+623.30.003;Šlapanice
+623.30.004;Šlapanice
+623.31.002;Vranovice
+623.31.003;Hustopeče
+623.31.005;Uherčice
+623.31.006;Pohořelice
+623.31.007;Rosice
+624.01.001;Břeclav
+624.01.002;Břeclav
+624.01.005;Břeclav
+624.01.012;Břeclav
+624.03.001;Mikulov
+624.03.002;Mikulov
+624.03.069;Mikulov
+624.03.109;Mikulov
+625.02.001-1;Kostelec u Kyjova
+625.02.002;Kyjov
+625.02.003-1;Dubňany
+625.02.008;Kyjov
+625.02.010;Kostelec u Kyjova
+625.03.001;Veselí nad Moravou
+625.03.002;Veselí nad Moravou
+625.03.003;Veselí nad Moravou
+625.03.004;Veselí nad Moravou
+625.04.001;Ratíškovice
+625.04.002;Ratíškovice
+625.04.003;Ratíškovice
+625.04.008;Vracov
+625.04.009;Mutěnice
+625.04.010;Vracov
+625.04.011;Čejkovice
+625.05.001;Mikulčice
+625.05.004;Lužice
+625.05.005;Mikulčice
+625.05.006;Mikulčice
+625.06.001;Hodonín
+625.06.002;Hodonín
+625.06.006;Prušánky
+625.06.042;Hodonín
+625.09.001;Klobouky u Brna
+625.09.002;Velké Hostěrádky
+625.09.003;Klobouky u Brna
+626.01.001;Luleč
+626.01.002;Vyškov
+626.01.003;Vyškov
+626.01.004;Vyškov
+626.01.005;Vyškov
+626.01.006;Ivanovice na Hané
+626.01.007;Vyškov
+626.01.008;Vyškov
+626.01.102;Vyškov
+626.03.001;Slavkov u Brna
+626.03.002;Slavkov u Brna
+626.03.004;Slavkov u Brna
+627.01.003;Jevišovice
+627.01.004;Jevišovice
+627.01.127;Jevišovice
+627.02.001-3;Znojmo
+627.02.001-7;Znojmo
+627.02.003;Znojmo
+627.02.004;Znojmo
+627.02.006;Znojmo
+627.02.014;Znojmo
+627.03.001;Znojmo
+627.03.002;Znojmo
+627.03.003;Znojmo
+627.03.011;Hodonín
+712.03.001;Olomouc
+712.03.002;Olomouc
+712.03.003-3;Hlušovice
+712.03.004;Olomouc
+712.03.005;Olomouc
+712.03.007;Olomouc
+712.03.020;Bystrovany
+712.04.003-1;Olomouc
+712.04.003-2;Olomouc
+712.04.006;Olomouc
+712.04.020;Olomouc
+712.04.288;Olomouc
+712.05.002-2;Olomouc
+712.05.004-3;Olomouc
+712.05.007;Olomouc
+712.05.008;Olomouc
+712.05.010;Olomouc
+712.05.023;Štěpánov
+712.05.289;Olomouc
+712.06.003;Olomouc
+712.06.005;Olomouc
+712.06.007-1;Olomouc
+712.06.012;Olomouc
+712.07.003;Olomouc
+712.07.015-1;Olomouc
+712.07.606;Olomouc
+712.08.001;Olomouc
+712.08.008-3;Olomouc
+712.08.008-4;Olomouc
+712.08.008-8;Slatinice
+712.08.014;Olomouc
+712.08.015;Olomouc
+712.08.018;Senička
+712.08.299;Olomouc
+712.08.802;Olomouc
+712.09.004-1;Olomouc
+712.09.004-2;Olomouc
+712.09.009-1;Olomouc
+712.09.009-2;Olomouc
+712.09.022;Olomouc
+712.13.005;Paseka
+712.13.013;Šternberk
+712.13.013-9;Šternberk
+712.13.014;Šternberk
+712.13.028;Paseka
+712.18.010;Dub nad Moravou
+712.18.011;Dub nad Moravou
+712.18.021;Dub nad Moravou
+712.19.002;Čechovice
+712.19.003;Doloplazy
+712.19.006;Velký Újezd
+712.19.012;Velká Bystřice
+712.19.016;Velký Týnec
+712.19.021;Vacanovice
+712.21.021;Bělkovice-Lašťany
+712.21.025;Bělkovice-Lašťany
+712.21.026;Bělkovice-Lašťany
+713.02.004;Prostějov
+713.02.005;Prostějov
+713.02.006;Prostějov
+713.02.007;Prostějov
+713.02.007-2;Prostějov
+713.03.001;Prostějov
+713.03.003;Plumlov
+713.03.005;Prostějov
+713.04.001;Kostelec na Hané
+713.04.003;Kostelec na Hané
+713.05.002;Prostějov
+713.05.006;Prostějov
+713.05.009;Prostějov
+713.05.021;Prostějov
+713.07.001;Konice
+713.07.003;Konice
+713.07.004;Čechy pod Kosířem
+713.08.005;Vrbátky
+713.08.007;Vrbátky
+713.08.008;Vrbátky
+714.01.001-1;Přerov
+714.01.002-1;Přerov
+714.01.003-1;Přerov
+714.01.384-1;Přerov
+714.02.201-1;Brodek u Přerova
+714.02.202-1;Brodek u Přerova
+714.02.203-1;Brodek u Přerova
+714.02.204-1;Brodek u Přerova
+714.02.205-1;Rokytnice u Přerova
+714.03.301;Kojetín
+714.03.303;Kojetín
+714.03.307;Kojetín
+714.04.001-1;Lipník nad Bečvou
+714.04.001-2;Lipník nad Bečvou
+714.04.001-3;Lipník nad Bečvou
+714.04.001-4;Lipník nad Bečvou
+714.05.002;Hranice
+714.05.003;Hranice
+715.01.001;Šumperk
+715.01.002;Šumperk
+715.01.003;Šumperk
+715.01.004;Libina
+715.01.005;Libina
+715.01.006;Šumperk
+715.03.031;Bludov
+715.03.032;Bludov
+715.03.469;Bludov
+715.04.001-1;Postřelmov
+715.04.001-3;Postřelmov
+715.04.001-5;Postřelmov
+715.06.002;Zábřeh
+715.06.003;Zábřeh
+715.06.005;Zábřeh
+715.07.001;Zábřeh
+715.07.003;Zábřeh
+715.07.004;Zábřeh
+715.07.006;Hoštejn
+715.07.008;Zábřeh
+715.07.009;Štíty
+715.08.001;Loštice
+715.08.002;Loštice
+715.08.003;Loštice
+715.08.005;Loštice
+715.10.001;Lesnice
+715.10.002;Lesnice
+715.10.003;Lesnice
+715.11.001;Ruda nad Moravou
+715.11.002;Olšany
+715.11.003;Ruda nad Moravou
+715.11.004;Ruda nad Moravou
+715.11.005;Ruda nad Moravou
+715.13.001;Rovensko
+715.13.002;Rovensko
+715.13.003;Rovensko
+715.15.003;Mikulovice
+715.15.007;Jeseník
+715.15.009;Jeseník
+715.15.014;Jeseník
+715.18.001;Staré Město
+715.18.002;Staré Město
+721.01.001;Kroměříž
+721.01.003;Kroměříž
+721.01.004;Kroměříž
+721.01.007;Kroměříž
+721.01.014;Kroměříž
+721.02.001;Lipník nad Bečvou
+721.02.002;Lipník nad Bečvou
+721.02.003;Lipník nad Bečvou
+721.02.004;Lipník nad Bečvou
+721.03.005;Kroměříž
+721.03.006;Kroměříž
+721.03.013;Kroměříž
+721.03.015;Kroměříž
+721.06.601;Holešov
+721.06.602;Holešov
+721.06.608;Holešov
+721.07.002;Chropyně
+721.07.009;Chropyně
+721.07.013;Chropyně
+722.01.001;Uherské Hradiště
+722.01.003;Uherské Hradiště
+722.01.004;Uherský Ostroh
+722.01.005;Hluk
+722.01.006;Uherské Hradiště
+722.01.011;Uherské Hradiště
+722.01.292;Uherské Hradiště
+722.02.001;Staré Město
+722.02.002;Staré Město
+722.03.031;Polešovice
+722.03.032;Polešovice
+722.03.033;Polešovice
+722.03.034;Polešovice
+722.03.035;Polešovice
+722.03.134;Polešovice
+722.08.001;Uherský Brod
+722.08.071;Uherský Brod
+722.08.081;Uherský Brod
+722.08.082;Uherský Brod
+722.08.084;Uherský Brod
+722.08.613;Uherský Brod
+722.09.001;Bojkovice
+722.09.002;Bojkovice
+722.10.101;Suchá Loz
+722.10.102;Suchá Loz
+722.10.103;Suchá Loz
+722.11.112;Modrá
+722.11.113;Modrá
+722.11.114;Jalubí
+722.11.115;Jalubí
+722.11.116;Tupesy
+722.11.117;Buchlovice
+723.01.001;Vsetín
+723.01.004;Vsetín
+723.01.005;Vsetín
+723.01.006;Vsetín
+723.01.010;Vsetín
+723.01.011;Vsetín
+723.01.012;Kateřinice
+723.01.013;Kateřinice
+723.02.001;Valašské Meziříčí
+723.02.002-1;Valašské Meziříčí
+723.02.002-2;Hrachovec u Valašského Meziříčí
+723.02.002-9;Hrachovec u Valašského Meziříčí
+723.02.003;Valašské Meziříčí
+723.02.005;Hutisko-Solanec
+723.02.007;Valašské Meziříčí
+723.02.037;Valašské Meziříčí
+723.03.002;Lidečko
+723.03.008;Lidečko
+723.04.001;Rožnov pod Radhoštěm
+723.04.002;Rožnov pod Radhoštěm
+723.04.005;Rožnov pod Radhoštěm
+723.06.001;Kelč
+723.06.002;Kelč
+723.06.003;Kelč
+724.03.021;Zlín
+724.03.023;Zlín
+724.03.024;Zlín
+724.04.011;Želechovice
+724.04.012;Zlín
+724.04.018;Zlín
+724.04.029;Zlín
+724.04.031;Zlín
+724.04.035;Zlín
+724.04.038;Zlín
+724.04.040;Zlín
+724.04.045;Zlín
+724.06.051-2;Zlín
+724.06.051-3;Zlín
+724.06.051-6;Zlín
+724.06.052-1;Zlín
+724.06.052-5;Zlín
+724.06.052-7;Zlín
+724.07.061;Zlín-Malenovice
+724.07.062;Zlín-Malenovice
+724.07.239;Zlín-Malenovice
+724.08.001;Otrokovice
+724.08.002;Otrokovice
+724.08.005;Otrokovice
+724.09.001;Napajedla
+724.09.002;Napajedla
+724.09.003;Napajedla
+724.09.160;Napajedla
+724.10.001;Luhačovice
+724.10.002;Luhačovice
+724.10.003;Luhačovice
+724.11.001-1;Slavičín
+724.11.001-2;Slavičín
+724.11.002;Slavičín
+724.11.004;Slavičín
+724.12.001;Vizovice
+724.12.002;Vizovice
+724.12.003;Vizovice
+724.12.006;Vizovice
+724.14.001;Pozlovice
+724.14.002;Pozlovice
+724.14.003;Pozlovice
+724.14.199;Pozlovice
+724.15.001;Štítná nad Vláří
+724.15.002;Štítná nad Vláří
+724.15.003;Štítná nad Vláří
+724.17.001;Brumov-Bylnice
+724.17.002;Brumov-Bylnice
+724.17.003;Brumov-Bylnice
+724.17.004;Brumov-Bylnice
+724.18.001;Slušovice
+724.18.002;Slušovice
+724.18.003;Slušovice
+811.01.003-1;Bruntál
+811.01.003-3;Bruntál
+811.01.003-9;Bruntál
+811.02.002-2;Krnov
+811.02.002-3;Krnov
+811.02.002-4;Krnov
+811.03.001-3;Rýmařov
+811.03.001-4;Rýmařov
+811.03.001-5;Rýmařov
+811.04.001;Zlaté Hory
+811.04.004-3;Zlaté Hory
+811.04.004-4;Zlaté Hory
+812.01.303-4;Frýdek-Místek
+812.01.401-1;Frýdek-Místek
+812.01.402-2;Frýdek-Místek
+812.01.909-1;Frýdek-Místek
+812.02.001-2;Frýdek-Místek
+812.02.002-2;Frýdek-Místek
+812.02.002-3;Frýdek-Místek
+812.02.002-4;Frýdek-Místek
+812.04.191;Frýdlant nad Ostravicí
+812.04.192;Paskov
+812.04.202;Frýdlant nad Ostravicí
+812.04.555;Frýdlant nad Ostravicí
+812.04.587;Frýdlant nad Ostravicí
+812.05.011;Šenov
+812.05.080;Šenov
+812.05.211;Šenov
+812.05.232;Šenov
+812.05.274;Šenov
+812.05.291;Šenov
+812.06.001;Frýdek-Místek
+812.06.003;Frýdek-Místek
+812.06.005;Frýdek-Místek
+812.06.007;Frýdek-Místek
+812.06.009;Sviadnov
+812.07.351;Brušperk
+812.07.361;Staříč
+812.07.381-9;Hukvaldy
+812.07.401;Kozlovice
+812.07.421;Krmelín
+812.09.001-1;Pražmo
+812.09.001-2;Pražmo
+812.09.002;Pustá Polom
+812.09.905;Pražmo
+812.10.001;Dobrá u Frýdku-Místku
+812.10.002;Dobrá u Frýdku-Místku
+812.10.003;Dobrá u Frýdku-Místku
+813.01.001;Dolní Lutyně
+813.01.002-3;Karviná
+813.01.006;Těrlicko
+813.01.007;Rychvald
+813.01.008;Karviná
+813.01.010;Horní Suchá
+813.01.063;Karviná
+813.01.110;Horní Suchá
+813.02.002;Havířov
+813.02.022;Havířov
+813.02.052;Havířov
+813.03.163;Třinec
+813.03.164;Třinec
+813.03.173;Třinec
+813.08.001;Český Těšín
+813.08.002;Český Těšín
+813.08.003;Český Těšín
+813.08.004;Český Těšín
+813.08.007;Český Těšín
+813.08.009;Český Těšín
+814.01.004;Nový Jičín
+814.01.005;Nový Jičín
+814.01.007;Nový Jičín
+814.01.009;Jeseník nad Odrou
+814.01.010;Veřovice
+814.01.012;Nový Jičín
+814.02.001;Příbor
+814.02.002;Lubina
+814.02.003;Příbor
+814.02.004;Lubina
+814.02.005;Příbor
+814.02.006;Příbor
+814.04.001;Kopřivnice
+814.04.002;Kopřivnice
+814.04.003;Kopřivnice
+814.04.004;Kopřivnice
+814.04.005;Štramberk
+814.04.007;Mořkov
+814.04.008;Štramberk
+814.05.001;Štramberk
+814.05.002;Štramberk
+814.05.005;Rybí
+814.05.009;Rybí
+814.06.010;Suchdol nad Odrou
+814.06.602-1;Odry
+814.06.603-1;Spálov
+814.06.604;Starý Jičín
+814.07.701-1;Albrechtičky
+814.07.702-1;Studénka
+814.07.703-1;Albrechtičky
+814.07.704-1;Studénka
+814.07.705-1;Petřvald
+814.07.706;Bravantice
+815.01.003;Opava
+815.01.007;Opava
+815.01.009;Opava
+815.01.011;Opava
+815.02.001;Velká Polom
+815.02.002;Domoradovice
+815.02.003;Opava
+815.02.005;Opava
+815.03.003;Opava
+815.03.021;Opava
+815.03.033;Opava
+815.04.001;Opava
+815.04.008;Opava
+815.04.010;Opava
+815.04.012;Opava
+815.05.002;Háj ve Slezsku
+815.05.012;Štítina
+815.05.082;Háj ve Slezsku
+815.08.010;Dolní Životice
+815.08.016;Dolní Životice
+815.08.017;Dolní Životice
+815.09.002-2;Nový Jičín
+815.09.002-5;Nový Jičín
+815.09.002-7;Nový Jičín
+816.02.001-2;Ostrava
+816.02.001-3;Ostrava-střed
+816.02.002-1;Ostrava
+816.02.014;Ostrava
+816.02.050;Ostrava
+816.04.007;Ostrava-jih
+816.04.026;Ostrava-střed
+816.04.098;Ostrava
+816.04.148;Ostrava
+816.05.003-1;Ostrava-západ
+816.05.003-4;Ostrava-západ
+816.05.005;Ostrava-západ
+816.05.073;Ostrava
+816.06.006;Ostrava-západ
+816.06.021;Ostrava-západ
+816.06.060;Ostrava-západ
+816.07.007-2;Klimkovice
+816.07.007-3;Klimkovice
+816.07.025;Klimkovice
+816.07.026;Klimkovice
+816.08.001;Vřesina
+816.08.008;Ostrava
+816.08.080;Ostrava
+816.09.001;Havířov
+816.09.048-1;Ostrava
+816.09.048-2;Ostrava
+816.09.048-4;Ostrava
+816.09.048-5;Ostrava
+816.09.049;Ostrava
+816.10.043-1;Ostrava-jih
+816.10.043-2;Ostrava-jih
+816.10.043-3;Ostrava-jih
+816.10.043-4;Ostrava-jih
+816.11.010;Ludgeřovice
+816.11.011-1;Ostrava-jih
+816.11.011-2;Ostrava-jih
+816.11.014;Ostrava-jih
+816.14.012;Ostrava
+816.14.014;Ostrava
+816.14.020;Ostrava
+816.14.024;Ostrava
+816.14.028;Ostrava
+816.15.001;Ostrava-jih
+816.15.008;Ostrava-jih
+816.15.010;Ostrava-jih
+816.15.011;Ostrava-jih
+816.15.022;Ostrava-jih
+816.15.311;Ostrava-jih
+816.16.006;Petrovice u Karviné
+816.16.016-2;Ostrava
+816.16.043;Studénka
